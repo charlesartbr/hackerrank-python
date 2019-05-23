@@ -1,3 +1,3 @@
-### Basic Data Types*
+### Basic Data Types
     
 * [Lists](lists)
