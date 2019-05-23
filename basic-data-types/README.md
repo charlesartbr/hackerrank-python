@@ -1,2 +1,3 @@
-- **[Basic Data Types](basic-data-types)**
-    * [Lists](basic-data-types/lists)
+### Basic Data Types*
+    
+* [Lists](lists)
