@@ -13,3 +13,6 @@ https://www.hackerrank.com/charlesartbr
     * [Python: Division](introduction/python-division)
     * [Loops](introduction/loops)
     * [Print Function](introduction/python-print)
+
+- **[Basic Data Types](basic-data-types)**
+    * [Lists](basic-data-types/lists)
