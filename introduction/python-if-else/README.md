@@ -16,3 +16,8 @@ A single line containing a positive integer, n.
 **Output Format**
 
 Print Weird if the number is weird; otherwise, print Not Weird.
+
+### My Solution
+
+- [Python 2](python2.py)
+- [Python 3](python3.py)
