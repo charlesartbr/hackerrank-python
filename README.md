@@ -6,6 +6,8 @@ My practice with Python solving problems in HackerRank
 
 https://www.hackerrank.com/charlesartbr
 
+### Solved problems:
+
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
     * [Python If-Else](introduction/say-hello-world-with-python)
