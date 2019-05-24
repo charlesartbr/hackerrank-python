@@ -1,4 +1,6 @@
-### Basic Data Types
+## Basic Data Types
     
+### Solved problems:
+
 * [Lists](lists)
 * [Tuples](tuples)
