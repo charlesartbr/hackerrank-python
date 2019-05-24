@@ -4,3 +4,4 @@
 
 * [Lists](lists)
 * [Tuples](tuples)
+* [Finding the percentage](finding-the-percentage)

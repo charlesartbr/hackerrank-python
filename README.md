@@ -19,3 +19,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Basic Data Types](basic-data-types)**
     * [Lists](basic-data-types/lists)
     * [Tuples](basic-data-types/tuples)
+    * [Finding the percentage](basic-data-types/finding-the-percentage)
