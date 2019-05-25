@@ -20,3 +20,4 @@ https://www.hackerrank.com/charlesartbr
     * [Lists](basic-data-types/lists)
     * [Tuples](basic-data-types/tuples)
     * [Finding the percentage](basic-data-types/finding-the-percentage)
+    * [Nested Lists](basic-data-types/nested-list)
