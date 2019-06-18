@@ -23,3 +23,6 @@ https://www.hackerrank.com/charlesartbr
     * [Nested Lists](basic-data-types/nested-list)
     * [Find the Runner-Up Score!](basic-data-types/find-the-runner-up-score)
     * [List Comprehensions](basic-data-types/list-comprehensions)
+
+- **[Strings](strings)**
+  * [sWAP cASE](strings/swap-case)
