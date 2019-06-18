@@ -26,3 +26,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Strings](strings)**
   * [sWAP cASE](strings/swap-case)
+  * [String Split and Join](strings/string-split-and-join)
