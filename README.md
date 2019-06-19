@@ -28,3 +28,4 @@ https://www.hackerrank.com/charlesartbr
   * [sWAP cASE](strings/swap-case)
   * [String Split and Join](strings/string-split-and-join)
   * [What's Your Name?](strings/whats-your-name)
+  * [Mutations](strings/mutations)
