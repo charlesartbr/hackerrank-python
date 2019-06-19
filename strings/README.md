@@ -6,3 +6,4 @@
 * [String Split and Join](string-split-and-join)
 * [What's Your Name?](whats-your-name)
 * [Mutations](mutations)
+* [Find a string](find-a-string)

@@ -29,3 +29,4 @@ https://www.hackerrank.com/charlesartbr
   * [String Split and Join](strings/string-split-and-join)
   * [What's Your Name?](strings/whats-your-name)
   * [Mutations](strings/mutations)
+  * [Find a string](strings/find-a-string)
