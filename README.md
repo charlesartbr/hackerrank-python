@@ -30,3 +30,4 @@ https://www.hackerrank.com/charlesartbr
   * [What's Your Name?](strings/whats-your-name)
   * [Mutations](strings/mutations)
   * [Find a string](strings/find-a-string)
+  * [String Validators](strings/string-validators)
