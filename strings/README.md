@@ -9,3 +9,4 @@
 * [Find a string](find-a-string)
 * [String Validators](string-validators)
 * [Text Alignment](text-alignment)
+* [Text Wrap](text-wrap)

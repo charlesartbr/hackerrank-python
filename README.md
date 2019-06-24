@@ -32,3 +32,4 @@ https://www.hackerrank.com/charlesartbr
   * [Find a string](strings/find-a-string)
   * [String Validators](strings/string-validators)
   * [Text Alignment](strings/text-alignment)
+  * [Text Wrap](strings/text-wrap)
