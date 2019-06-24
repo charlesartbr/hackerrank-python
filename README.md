@@ -31,3 +31,4 @@ https://www.hackerrank.com/charlesartbr
   * [Mutations](strings/mutations)
   * [Find a string](strings/find-a-string)
   * [String Validators](strings/string-validators)
+  * [Text Alignment](strings/text-alignment)
