@@ -33,3 +33,4 @@ https://www.hackerrank.com/charlesartbr
   * [String Validators](strings/string-validators)
   * [Text Alignment](strings/text-alignment)
   * [Text Wrap](strings/text-wrap)
+  * [Designer Door Mat](strings/designer-door-mat)
