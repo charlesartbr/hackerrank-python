@@ -35,3 +35,4 @@ https://www.hackerrank.com/charlesartbr
   * [Text Wrap](strings/text-wrap)
   * [Designer Door Mat](strings/designer-door-mat)
   * [String Formatting](strings/string-formatting)
+  * [Alphabet Rangoli](strings/alphabet-rangoli)
