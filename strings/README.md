@@ -13,3 +13,4 @@
 * [Designer Door Mat](designer-door-mat)
 * [String Formatting](string-formatting)
 * [Alphabet Rangoli](alphabet-rangoli)
+* [Capitalize!](capitalize)

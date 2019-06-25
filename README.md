@@ -36,3 +36,4 @@ https://www.hackerrank.com/charlesartbr
   * [Designer Door Mat](strings/designer-door-mat)
   * [String Formatting](strings/string-formatting)
   * [Alphabet Rangoli](strings/alphabet-rangoli)
+  * [Capitalize!](strings/capitalize)
