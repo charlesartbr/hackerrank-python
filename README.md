@@ -34,3 +34,4 @@ https://www.hackerrank.com/charlesartbr
   * [Text Alignment](strings/text-alignment)
   * [Text Wrap](strings/text-wrap)
   * [Designer Door Mat](strings/designer-door-mat)
+  * [String Formatting](strings/string-formatting)

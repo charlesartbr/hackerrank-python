@@ -11,3 +11,4 @@
 * [Text Alignment](text-alignment)
 * [Text Wrap](text-wrap)
 * [Designer Door Mat](designer-door-mat)
+* [String Formatting](string-formatting)
