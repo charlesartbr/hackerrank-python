@@ -37,3 +37,6 @@ https://www.hackerrank.com/charlesartbr
   * [String Formatting](strings/string-formatting)
   * [Alphabet Rangoli](strings/alphabet-rangoli)
   * [Capitalize!](strings/capitalize)
+
+- **[Sets](sets)**
+  * [Introduction to Sets](sets/introduction-to-sets)
