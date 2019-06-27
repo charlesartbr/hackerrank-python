@@ -41,3 +41,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Sets](sets)**
   * [Introduction to Sets](sets/introduction-to-sets)
   * [Symmetric Difference](sets/symmetric-difference)
+  * [Set .add()](sets/set-add)
