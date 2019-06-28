@@ -43,3 +43,4 @@ https://www.hackerrank.com/charlesartbr
   * [Symmetric Difference](sets/symmetric-difference)
   * [Set .add()](sets/set-add)
   * [Set .discard(), .remove() & .pop()](sets/set-discard-remove-pop)
+  * [Set .union() Operation](sets/set-union)
