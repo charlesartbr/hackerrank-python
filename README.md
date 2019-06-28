@@ -44,3 +44,4 @@ https://www.hackerrank.com/charlesartbr
   * [Set .add()](sets/set-add)
   * [Set .discard(), .remove() & .pop()](sets/set-discard-remove-pop)
   * [Set .union() Operation](sets/set-union)
+  * [Set .intersection() Operation](sets/set-intersection)
