@@ -9,3 +9,4 @@
 * [Set .union() Operation](set-union)
 * [Set .intersection() Operation](set-intersection)
 * [Set .difference() Operation](set-difference)
+* [Set .symmetric_difference() Operation](set-symmetric-difference)
