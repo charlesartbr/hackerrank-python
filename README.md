@@ -48,3 +48,4 @@ https://www.hackerrank.com/charlesartbr
   * [Set .difference() Operation](sets/set-difference)
   * [Set .symmetric_difference() Operation](sets/set-symmetric-difference)
   * [Check Subset](sets/check-subset)
+  * [Check Strict Superset](sets/check-strict-superset)
