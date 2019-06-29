@@ -47,3 +47,4 @@ https://www.hackerrank.com/charlesartbr
   * [Set .intersection() Operation](sets/set-intersection)
   * [Set .difference() Operation](sets/set-difference)
   * [Set .symmetric_difference() Operation](sets/set-symmetric-difference)
+  * [Check Subset](sets/check-subset)
