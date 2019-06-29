@@ -12,3 +12,4 @@
 * [Set .symmetric_difference() Operation](set-symmetric-difference)
 * [Check Subset](check-subset)
 * [Check Strict Superset](check-strict-superset)
+* [Set Mutations](set-mutations)
