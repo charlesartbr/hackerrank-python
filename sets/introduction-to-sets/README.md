@@ -1,6 +1,6 @@
 # Introduction to Sets
 
-https://www.hackerrank.com/challenges/introduction-to-sets
+https://www.hackerrank.com/challenges/py-introduction-to-sets/
 
 ### Problem
 

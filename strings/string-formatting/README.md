@@ -1,6 +1,6 @@
 # String Formatting
 
-https://www.hackerrank.com/challenges/string-formatting
+https://www.hackerrank.com/challenges/python-string-formatting/problem
 
 ### Problem
 

@@ -1,6 +1,6 @@
 # Set .add()
 
-https://www.hackerrank.com/challenges/set-add
+https://www.hackerrank.com/challenges/py-set-add/
 
 **Problem**
 
