@@ -59,3 +59,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Itertools](itertools)**
   * [itertools.permutations()](itertools/permutations)
+  * [itertools.combinations()](itertools/combinations)
