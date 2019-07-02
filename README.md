@@ -51,10 +51,11 @@ https://www.hackerrank.com/charlesartbr
   * [Check Strict Superset](sets/check-strict-superset)
   * [Set Mutations](sets/set-mutations)
 
-  ## Math
-
 - **[Math](math)**
   * [Polar Coordinates](math/polar-coordinates)
   * [Power - Mod Power](math/power-mod-power) 
   * [Integers Come In All Sizes](math/integers-come-in-all-sizes)
   * [Mod Divmod](math/mod-divmod)
+
+- **[Itertools](itertools)**
+  * [itertools.permutations()](itertools/permutations)
