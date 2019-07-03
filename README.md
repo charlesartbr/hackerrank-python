@@ -66,3 +66,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Collections](collections)**
   * [collections.Counter()](collections/counter)
   * [DefaultDict Tutorial](collections/defaultdict-tutorial)
+  * [The Captain's Room](collections/the-captains-room)
