@@ -62,3 +62,6 @@ https://www.hackerrank.com/charlesartbr
   * [itertools.combinations()](itertools/combinations)
   * [itertools.combinations_with_replacement()](itertools/combinations-with-replacement)
   * [itertools.product()](itertools/product)
+
+- **[Collections](collections)**
+  * [collections.Counter()](collections/counter)
