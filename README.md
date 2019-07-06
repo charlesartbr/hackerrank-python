@@ -68,3 +68,4 @@ https://www.hackerrank.com/charlesartbr
   * [collections.Counter()](collections/counter)
   * [DefaultDict Tutorial](collections/defaultdict-tutorial)
   * [Collections.OrderedDict()](collections/ordereddict)
+  * [Collections.deque()](collections/deque)
