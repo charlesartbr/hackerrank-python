@@ -6,3 +6,4 @@
 * [DefaultDict Tutorial](defaultdict-tutorial)
 * [Collections.OrderedDict()](ordereddict)
 * [Collections.deque()](deque)
+* [Collections.namedtuple()](namedtuple)

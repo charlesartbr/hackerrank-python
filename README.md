@@ -69,3 +69,4 @@ https://www.hackerrank.com/charlesartbr
   * [DefaultDict Tutorial](collections/defaultdict-tutorial)
   * [Collections.OrderedDict()](collections/ordereddict)
   * [Collections.deque()](collections/deque)
+  * [Collections.namedtuple()](collections/namedtuple)
