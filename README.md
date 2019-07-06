@@ -50,6 +50,7 @@ https://www.hackerrank.com/charlesartbr
   * [Check Subset](sets/check-subset)
   * [Check Strict Superset](sets/check-strict-superset)
   * [Set Mutations](sets/set-mutations)
+  * [The Captain's Room](sets/the-captains-room)
 
 - **[Math](math)**
   * [Polar Coordinates](math/polar-coordinates)
@@ -66,5 +67,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Collections](collections)**
   * [collections.Counter()](collections/counter)
   * [DefaultDict Tutorial](collections/defaultdict-tutorial)
-  * [The Captain's Room](collections/the-captains-room)
-  * [Collections.OrderedDict()](collections/collections-ordereddict)
+  * [Collections.OrderedDict()](collections/ordereddict)

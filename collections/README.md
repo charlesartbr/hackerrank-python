@@ -4,4 +4,4 @@
 
 * [collections.Counter()](counter)
 * [DefaultDict Tutorial](defaultdict-tutorial)
-* [Collections.OrderedDict()](collections-ordereddict)
+* [Collections.OrderedDict()](ordereddict)
