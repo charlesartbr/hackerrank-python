@@ -70,3 +70,6 @@ https://www.hackerrank.com/charlesartbr
   * [Collections.OrderedDict()](collections/ordereddict)
   * [Collections.deque()](collections/deque)
   * [Collections.namedtuple()](collections/namedtuple)
+
+- **[Date and Time](date-time)**
+  * [Calendar Module](date-time/calendar-module)
