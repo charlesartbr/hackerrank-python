@@ -76,3 +76,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Errors and Exceptions](errors-exceptions)**
   * [Incorrect Regex](errors-exceptions/incorrect-regex)
+  * [Exceptions](errors-exceptions/exceptions)
