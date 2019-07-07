@@ -73,3 +73,6 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Date and Time](date-time)**
   * [Calendar Module](date-time/calendar-module)
+
+- **[Errors and Exceptions](errors-exceptions)**
+  * [Incorrect Regex](errors-exceptions/incorrect-regex)
