@@ -3,3 +3,4 @@
 ### Solved problems:
 
 * [Zipped!](zipped)
+* [Python Evaluation](eval)
