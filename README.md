@@ -80,3 +80,6 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Classes](classes)**
   * [Class 2 - Find the Torsional Angle](classes/class-2-find-the-torsional-angle)
+
+- **[Built-Ins](built-ins)**
+  * [Zipped!](built-ins/zipped)
