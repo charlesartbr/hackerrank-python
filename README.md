@@ -84,3 +84,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Built-Ins](built-ins)**
   * [Zipped!](built-ins/zipped)
   * [Python Evaluation](built-ins/eval)
+  * [Any or All](built-ins/any-or-all)
