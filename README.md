@@ -86,3 +86,6 @@ https://www.hackerrank.com/charlesartbr
   * [Python Evaluation](built-ins/eval)
   * [Any or All](built-ins/any-or-all)
   * [Input()](built-ins/input)
+
+- **[Functionals](functionals)**
+  * [Map and Lambda Function](functionals/map-and-lambda-expression)
