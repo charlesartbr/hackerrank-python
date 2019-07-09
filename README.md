@@ -89,3 +89,6 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Functionals](functionals)**
   * [Map and Lambda Function](functionals/map-and-lambda-expression)
+
+- **[Regex and Parsing](regex-and-parsing)**
+  * [Validating and Parsing Email Addresses](regex-and-parsing/validating-named-email-addresses)
