@@ -6,3 +6,4 @@
 * [Detect Floating Point Number](detect-floating-point-number)
 * [Re.split()](re-split)
 * [Group(), Groups() & Groupdict()](re-group-groups)
+* [Re.findall() & Re.finditer()](re-findall-re-finditer)
