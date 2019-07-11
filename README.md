@@ -95,3 +95,4 @@ https://www.hackerrank.com/charlesartbr
   * [Detect Floating Point Number](regex-and-parsing/detect-floating-point-number)
   * [Re.split()](regex-and-parsing/re-split)
   * [Group(), Groups() & Groupdict()](regex-and-parsing/re-group-groups)
+  * [Re.findall() & Re.finditer()](regex-and-parsing/re-findall-re-finditer)
