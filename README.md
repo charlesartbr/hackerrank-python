@@ -94,3 +94,4 @@ https://www.hackerrank.com/charlesartbr
   * [Validating and Parsing Email Addresses](regex-and-parsing/validating-named-email-addresses)
   * [Detect Floating Point Number](regex-and-parsing/detect-floating-point-number)
   * [Re.split()](regex-and-parsing/re-split)
+  * [Group(), Groups() & Groupdict()](regex-and-parsing/re-group-groups)
