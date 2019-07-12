@@ -7,3 +7,4 @@
 * [Re.split()](re-split)
 * [Group(), Groups() & Groupdict()](re-group-groups)
 * [Re.findall() & Re.finditer()](re-findall-re-finditer)
+* [Re.start() & Re.end()](re-start-re-end)

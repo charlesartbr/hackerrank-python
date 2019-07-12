@@ -96,3 +96,4 @@ https://www.hackerrank.com/charlesartbr
   * [Re.split()](regex-and-parsing/re-split)
   * [Group(), Groups() & Groupdict()](regex-and-parsing/re-group-groups)
   * [Re.findall() & Re.finditer()](regex-and-parsing/re-findall-re-finditer)
+  * [Re.start() & Re.end()](regex-and-parsing/re-start-re-end)
