@@ -99,3 +99,4 @@ https://www.hackerrank.com/charlesartbr
   * [Re.start() & Re.end()](regex-and-parsing/re-start-re-end)
   * [Validating Roman Numerals](regex-and-parsing/validate-a-roman-number)
   * [Validating phone numbers](regex-and-parsing/validating-the-phone-number)
+  * [Hex Color Code](regex-and-parsing/hex-color-code)
