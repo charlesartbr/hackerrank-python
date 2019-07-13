@@ -98,3 +98,4 @@ https://www.hackerrank.com/charlesartbr
   * [Re.findall() & Re.finditer()](regex-and-parsing/re-findall-re-finditer)
   * [Re.start() & Re.end()](regex-and-parsing/re-start-re-end)
   * [Validating Roman Numerals](regex-and-parsing/validate-a-roman-number)
+  * [Validating phone numbers](regex-and-parsing/validating-the-phone-number)

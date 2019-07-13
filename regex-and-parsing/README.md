@@ -9,3 +9,4 @@
 * [Re.findall() & Re.finditer()](re-findall-re-finditer)
 * [Re.start() & Re.end()](re-start-re-end)
 * [Validating Roman Numerals](validate-a-roman-number)
+* [Validating phone numbers](validating-the-phone-number)
