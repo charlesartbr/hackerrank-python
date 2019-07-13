@@ -100,3 +100,4 @@ https://www.hackerrank.com/charlesartbr
   * [Validating Roman Numerals](regex-and-parsing/validate-a-roman-number)
   * [Validating phone numbers](regex-and-parsing/validating-the-phone-number)
   * [Hex Color Code](regex-and-parsing/hex-color-code)
+  * [HTML Parser - Part 1](regex-and-parsing/html-parser-part-1)

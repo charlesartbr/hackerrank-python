@@ -11,3 +11,4 @@
 * [Validating Roman Numerals](validate-a-roman-number)
 * [Validating phone numbers](validating-the-phone-number)
 * [Hex Color Code](hex-color-code)
+* [HTML Parser - Part 1](html-parser-part-1)
