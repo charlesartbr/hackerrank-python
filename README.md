@@ -97,3 +97,4 @@ https://www.hackerrank.com/charlesartbr
   * [Group(), Groups() & Groupdict()](regex-and-parsing/re-group-groups)
   * [Re.findall() & Re.finditer()](regex-and-parsing/re-findall-re-finditer)
   * [Re.start() & Re.end()](regex-and-parsing/re-start-re-end)
+  * [Validating Roman Numerals](regex-and-parsing/validate-a-roman-number)
