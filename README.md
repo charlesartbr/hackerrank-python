@@ -102,3 +102,4 @@ https://www.hackerrank.com/charlesartbr
   * [Hex Color Code](regex-and-parsing/hex-color-code)
   * [HTML Parser - Part 1](regex-and-parsing/html-parser-part-1)
   * [HTML Parser - Part 2](regex-and-parsing/html-parser-part-2)
+  * [Detect HTML Tags, Attributes and Attribute Values](regex-and-parsing/detect-html-tags-attributes-and-attribute-values)

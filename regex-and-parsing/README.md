@@ -13,3 +13,4 @@
 * [Hex Color Code](hex-color-code)
 * [HTML Parser - Part 1](html-parser-part-1)
 * [HTML Parser - Part 2](html-parser-part-2)
+* [Detect HTML Tags, Attributes and Attribute Values](detect-html-tags-attributes-and-attribute-values)
