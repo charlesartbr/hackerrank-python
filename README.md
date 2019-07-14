@@ -101,3 +101,4 @@ https://www.hackerrank.com/charlesartbr
   * [Validating phone numbers](regex-and-parsing/validating-the-phone-number)
   * [Hex Color Code](regex-and-parsing/hex-color-code)
   * [HTML Parser - Part 1](regex-and-parsing/html-parser-part-1)
+  * [HTML Parser - Part 2](regex-and-parsing/html-parser-part-2)

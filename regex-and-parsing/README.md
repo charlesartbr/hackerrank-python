@@ -12,3 +12,4 @@
 * [Validating phone numbers](validating-the-phone-number)
 * [Hex Color Code](hex-color-code)
 * [HTML Parser - Part 1](html-parser-part-1)
+* [HTML Parser - Part 2](html-parser-part-2)
