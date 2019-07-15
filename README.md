@@ -104,3 +104,6 @@ https://www.hackerrank.com/charlesartbr
   * [HTML Parser - Part 2](regex-and-parsing/html-parser-part-2)
   * [Detect HTML Tags, Attributes and Attribute Values](regex-and-parsing/detect-html-tags-attributes-and-attribute-values)
   * [Validating UID](regex-and-parsing/validating-uid)
+
+- **[XML](xml)**
+  * [XML 1 - Find the Score](xml/xml-1-find-the-score)
