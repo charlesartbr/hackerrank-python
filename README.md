@@ -108,3 +108,6 @@ https://www.hackerrank.com/charlesartbr
 - **[XML](xml)**
   * [XML 1 - Find the Score](xml/xml-1-find-the-score)
   * [XML 2 - Find the Maximum Depth](xml/xml2-find-the-maximum-depth)
+
+- **[Closures and Decorators](closures-and-decorators)**
+  * [Standardize Mobile Number Using Decorators](closures-and-decorators/standardize-mobile-number-using-decorators)
