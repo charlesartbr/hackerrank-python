@@ -112,3 +112,6 @@ https://www.hackerrank.com/charlesartbr
 - **[Closures and Decorators](closures-and-decorators)**
   * [Standardize Mobile Number Using Decorators](closures-and-decorators/standardize-mobile-number-using-decorators)
   * [Decorators 2 - Name Directory](closures-and-decorators/decorators-2-name-directory)
+
+- **[NumPy](numpy)**
+  * [Arrays](numpy/arrays)
