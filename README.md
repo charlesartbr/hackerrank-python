@@ -116,3 +116,4 @@ https://www.hackerrank.com/charlesartbr
 - **[NumPy](numpy)**
   * [Arrays](numpy/arrays)
   * [Shape and Reshape](numpy/shape-reshape)
+  * [Concatenate](numpy/concatenate)
