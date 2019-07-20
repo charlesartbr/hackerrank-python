@@ -118,3 +118,4 @@ https://www.hackerrank.com/charlesartbr
   * [Shape and Reshape](numpy/shape-reshape)
   * [Concatenate](numpy/concatenate)
   * [Zeros and Ones](numpy/zeros-and-ones)
+  * [Eye and Identity](numpy/eye-and-identity)
