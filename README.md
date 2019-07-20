@@ -119,3 +119,4 @@ https://www.hackerrank.com/charlesartbr
   * [Concatenate](numpy/concatenate)
   * [Zeros and Ones](numpy/zeros-and-ones)
   * [Eye and Identity](numpy/eye-and-identity)
+  * [Array Mathematics](numpy/array-mathematics)
