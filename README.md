@@ -120,3 +120,4 @@ https://www.hackerrank.com/charlesartbr
   * [Zeros and Ones](numpy/zeros-and-ones)
   * [Eye and Identity](numpy/eye-and-identity)
   * [Array Mathematics](numpy/array-mathematics)
+  * [Floor, Ceil and Rint](numpy/floor-ceil-and-rint)
