@@ -123,3 +123,4 @@ https://www.hackerrank.com/charlesartbr
   * [Floor, Ceil and Rint](numpy/floor-ceil-and-rint)
   * [Sum and Prod](numpy/sum-and-prod)
   * [Min and Max](numpy/min-and-max)
+  * [Mean, Var, and Std](numpy/mean-var-and-std)

@@ -11,3 +11,4 @@
 * [Floor, Ceil and Rint](floor-ceil-and-rint)
 * [Sum and Prod](sum-and-prod)
 * [Min and Max](min-and-max)
+* [Mean, Var, and Std](mean-var-and-std)
