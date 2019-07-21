@@ -10,3 +10,4 @@
 * [Array Mathematics](array-mathematics)
 * [Floor, Ceil and Rint](floor-ceil-and-rint)
 * [Sum and Prod](sum-and-prod)
+* [Min and Max](min-and-max)
