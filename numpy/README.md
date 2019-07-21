@@ -9,3 +9,4 @@
 * [Eye and Identity](eye-and-identity)
 * [Array Mathematics](array-mathematics)
 * [Floor, Ceil and Rint](floor-ceil-and-rint)
+* [Sum and Prod](sum-and-prod)

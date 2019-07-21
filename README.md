@@ -121,3 +121,4 @@ https://www.hackerrank.com/charlesartbr
   * [Eye and Identity](numpy/eye-and-identity)
   * [Array Mathematics](numpy/array-mathematics)
   * [Floor, Ceil and Rint](numpy/floor-ceil-and-rint)
+  * [Sum and Prod](numpy/sum-and-prod)
