@@ -12,3 +12,4 @@
 * [Sum and Prod](sum-and-prod)
 * [Min and Max](min-and-max)
 * [Mean, Var, and Std](mean-var-and-std)
+* [Dot and Cross](dot-and-cross)

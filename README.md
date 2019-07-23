@@ -124,3 +124,4 @@ https://www.hackerrank.com/charlesartbr
   * [Sum and Prod](numpy/sum-and-prod)
   * [Min and Max](numpy/min-and-max)
   * [Mean, Var, and Std](numpy/mean-var-and-std)
+  * [Dot and Cross](numpy/dot-and-cross)
