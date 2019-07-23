@@ -127,3 +127,4 @@ https://www.hackerrank.com/charlesartbr
   * [Dot and Cross](numpy/dot-and-cross)
   * [Inner and Outer](numpy/inner-and-outer)
   * [Transpose and Flatten](numpy/transpose-and-flatten)
+  * [Polynomials](numpy/polynomials)

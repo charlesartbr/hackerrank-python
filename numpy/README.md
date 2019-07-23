@@ -15,3 +15,4 @@
 * [Dot and Cross](dot-and-cross)
 * [Inner and Outer](inner-and-outer)
 * [Transpose and Flatten](transpose-and-flatten)
+* [Polynomials](polynomials)
