@@ -14,3 +14,4 @@
 * [Mean, Var, and Std](mean-var-and-std)
 * [Dot and Cross](dot-and-cross)
 * [Inner and Outer](inner-and-outer)
+* [Transpose and Flatten](transpose-and-flatten)

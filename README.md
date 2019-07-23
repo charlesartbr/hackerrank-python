@@ -126,3 +126,4 @@ https://www.hackerrank.com/charlesartbr
   * [Mean, Var, and Std](numpy/mean-var-and-std)
   * [Dot and Cross](numpy/dot-and-cross)
   * [Inner and Outer](numpy/inner-and-outer)
+  * [Transpose and Flatten](numpy/transpose-and-flatten)
