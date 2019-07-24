@@ -128,3 +128,4 @@ https://www.hackerrank.com/charlesartbr
   * [Inner and Outer](numpy/inner-and-outer)
   * [Transpose and Flatten](numpy/transpose-and-flatten)
   * [Polynomials](numpy/polynomials)
+  * [Linear Algebra](numpy/linear-algebra)

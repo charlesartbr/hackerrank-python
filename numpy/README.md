@@ -16,3 +16,4 @@
 * [Inner and Outer](inner-and-outer)
 * [Transpose and Flatten](transpose-and-flatten)
 * [Polynomials](polynomials)
+* [Linear Algebra](linear-algebra)
