@@ -11,10 +11,10 @@ def score_words(words):
         if num_vowels % 2 == 0:
             score += 2
         else:
-            ++score
+            score += 1
     return score
 
 
-n = int(raw_input())
-words = raw_input().split()
-print score_words(words)
+n = int(input())
+words = input().split()
+print(score_words(words))
