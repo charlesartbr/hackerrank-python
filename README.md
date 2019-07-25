@@ -129,3 +129,6 @@ https://www.hackerrank.com/charlesartbr
   * [Transpose and Flatten](numpy/transpose-and-flatten)
   * [Polynomials](numpy/polynomials)
   * [Linear Algebra](numpy/linear-algebra)
+
+- **[Debugging](debugging)**
+  * [Words Score](debugging/words-score)
