@@ -37,6 +37,7 @@ https://www.hackerrank.com/charlesartbr
   * [String Formatting](strings/string-formatting)
   * [Alphabet Rangoli](strings/alphabet-rangoli)
   * [Capitalize!](strings/capitalize)
+  * [The Minion Game](strings/the-minion-game)
 
 - **[Sets](sets)**
   * [Introduction to Sets](sets/introduction-to-sets)

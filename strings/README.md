@@ -14,3 +14,4 @@
 * [String Formatting](string-formatting)
 * [Alphabet Rangoli](alphabet-rangoli)
 * [Capitalize!](capitalize)
+* [The Minion Game](the-minion-game)
