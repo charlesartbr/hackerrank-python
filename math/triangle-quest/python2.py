@@ -1,0 +1,2 @@
+for i in xrange(1,input()):
+    print (i*(10**(i-1))) + int(i*(10**(i-2))) + int(i*(10**(i-3))) + int(i*(10**(i-4))) + int(i*(10**(i-5))) + int(i*(10**(i-6))) + int(i*(10**(i-7))) + int(i*(10**(i-8))) + int(i*(10**(i-9)))

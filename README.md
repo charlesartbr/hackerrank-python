@@ -58,6 +58,7 @@ https://www.hackerrank.com/charlesartbr
   * [Power - Mod Power](math/power-mod-power) 
   * [Integers Come In All Sizes](math/integers-come-in-all-sizes)
   * [Mod Divmod](math/mod-divmod)
+  * [Triangle Quest](math/triangle-quest)
 
 - **[Itertools](itertools)**
   * [itertools.permutations()](itertools/permutations)
