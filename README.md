@@ -65,7 +65,8 @@ https://www.hackerrank.com/charlesartbr
   * [itertools.combinations()](itertools/combinations)
   * [itertools.combinations_with_replacement()](itertools/combinations-with-replacement)
   * [itertools.product()](itertools/product)
-
+  * [Compress the String!](itertools/compress-the-string)
+  
 - **[Collections](collections)**
   * [collections.Counter()](collections/counter)
   * [DefaultDict Tutorial](collections/defaultdict-tutorial)
