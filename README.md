@@ -74,6 +74,7 @@ https://www.hackerrank.com/charlesartbr
   * [Collections.OrderedDict()](collections/ordereddict)
   * [Collections.deque()](collections/deque)
   * [Collections.namedtuple()](collections/namedtuple)
+  * [Word Order](collections/word-order)
 
 - **[Date and Time](date-time)**
   * [Calendar Module](date-time/calendar-module)
