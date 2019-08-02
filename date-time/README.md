@@ -3,3 +3,4 @@
 ### Solved problems:
 
 * [Calendar Module](calendar-module)
+* [Time Delta](time-delta)
