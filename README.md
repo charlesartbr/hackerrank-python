@@ -75,6 +75,7 @@ https://www.hackerrank.com/charlesartbr
   * [Collections.deque()](collections/deque)
   * [Collections.namedtuple()](collections/namedtuple)
   * [Word Order](collections/word-order)
+  * [Company Logo](collections/company-logo)
 
 - **[Date and Time](date-time)**
   * [Calendar Module](date-time/calendar-module)
