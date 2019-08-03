@@ -6,3 +6,4 @@
 * [Python Evaluation](eval)
 * [Any or All](any-or-all)
 * [Input()](input)
+* [Athlete Sort](athlete-sort)
