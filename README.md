@@ -94,6 +94,7 @@ https://www.hackerrank.com/charlesartbr
   * [Any or All](built-ins/any-or-all)
   * [Input()](built-ins/input)
   * [Athlete Sort](built-ins/athlete-sort)
+  * [ginortS](built-ins/ginorts)
 
 - **[Functionals](functionals)**
   * [Map and Lambda Function](functionals/map-and-lambda-expression)
