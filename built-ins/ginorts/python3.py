@@ -1,11 +1,9 @@
 def order_function(x):
     if x.islower():
-        return ord(x)
+        return (1, x)
     elif x.isupper():
-        return ord(x) + 100
+        return (2, x)
     else:
-        return int(x) + (1000 if int(x) % 2 == 1 else 2000)
+        return (3 if int(x) % 2 == 1 else 4, x)
 
-s = list(input())
-
-print(str.join('', sorted(s, key = order_function)))
+print(*sorted(input(), key = order_function), sep='')
