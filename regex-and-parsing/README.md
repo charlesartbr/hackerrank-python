@@ -15,3 +15,4 @@
 * [HTML Parser - Part 2](html-parser-part-2)
 * [Detect HTML Tags, Attributes and Attribute Values](detect-html-tags-attributes-and-attribute-values)
 * [Validating UID](validating-uid)
+* [Validating Credit Card Numbers](validating-credit-card-number)
