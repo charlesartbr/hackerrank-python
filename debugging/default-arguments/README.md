@@ -24,6 +24,15 @@ Otherwise, if the stream_name is odd, then print_from_stream(n, OddStream()) is 
 **Sample Input 0**
 
 ```
+3
+odd 2
+even 3
+odd 5
+```
+
+**Sample Output 0**
+
+```
 1
 3
 0
