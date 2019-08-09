@@ -84,7 +84,6 @@ https://www.hackerrank.com/charlesartbr
 - **[Errors and Exceptions](errors-exceptions)**
   * [Incorrect Regex](errors-exceptions/incorrect-regex)
   * [Exceptions](errors-exceptions/exceptions)
-
 - **[Classes](classes)**
   * [Class 2 - Find the Torsional Angle](classes/class-2-find-the-torsional-angle)
 
@@ -144,3 +143,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Debugging](debugging)**
   * [Words Score](debugging/words-score)
+  * [Default Arguments](debugging/default-arguments)
