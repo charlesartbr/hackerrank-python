@@ -8,3 +8,4 @@
 * [itertools.product()](product)
 * [Compress the String!](compress-the-string)
 * [Iterables and Iterators](iterables-and-iterators)
+* [Maximize It!](maximize-it)

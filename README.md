@@ -67,6 +67,7 @@ https://www.hackerrank.com/charlesartbr
   * [itertools.product()](itertools/product)
   * [Compress the String!](itertools/compress-the-string)
   * [Iterables and Iterators](itertools/iterables-and-iterators)
+  * [Maximize It!](itertools/maximize-it)
   
 - **[Collections](collections)**
   * [collections.Counter()](collections/counter)
