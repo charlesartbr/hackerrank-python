@@ -1,6 +1,6 @@
 # hackerrank-python
 
-My practice with Python solving problems in HackerRank
+My practice with Python solving problems in HackerRank.
 
 [![last commit](https://img.shields.io/github/last-commit/charlesartbr/hackerrank-python.svg)](https://github.com/charlesartbr/hackerrank-python) 
 [![commit activity](https://img.shields.io/github/commit-activity/m/charlesartbr/hackerrank-python.svg)](https://github.com/charlesartbr/hackerrank-python)
@@ -10,7 +10,7 @@ My practice with Python solving problems in HackerRank
 
 https://www.hackerrank.com/charlesartbr
 
-### Solved problems:
+### **113** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
