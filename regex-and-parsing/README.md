@@ -16,3 +16,4 @@
 * [Detect HTML Tags, Attributes and Attribute Values](detect-html-tags-attributes-and-attribute-values)
 * [Validating UID](validating-uid)
 * [Validating Credit Card Numbers](validating-credit-card-number)
+* [Validating Postal Codes](validating-postalcode)

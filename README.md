@@ -10,7 +10,7 @@ My practice with Python solving problems in HackerRank.
 
 https://www.hackerrank.com/charlesartbr
 
-### **113** solved problems:
+### **114** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -120,7 +120,8 @@ https://www.hackerrank.com/charlesartbr
   * [Detect HTML Tags, Attributes and Attribute Values](regex-and-parsing/detect-html-tags-attributes-and-attribute-values)
   * [Validating UID](regex-and-parsing/validating-uid)
   * [Validating Credit Card Numbers](regex-and-parsing/validating-credit-card-number)
-  
+  * [Validating Postal Codes](regex-and-parsing/validating-postalcode)
+
 - **[XML](xml)**
   * [XML 1 - Find the Score](xml/xml-1-find-the-score)
   * [XML 2 - Find the Maximum Depth](xml/xml2-find-the-maximum-depth)
