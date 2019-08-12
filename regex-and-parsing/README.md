@@ -17,3 +17,4 @@
 * [Validating UID](validating-uid)
 * [Validating Credit Card Numbers](validating-credit-card-number)
 * [Validating Postal Codes](validating-postalcode)
+* [Matrix Script](matrix-script)
