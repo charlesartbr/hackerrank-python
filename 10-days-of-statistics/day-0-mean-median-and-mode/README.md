@@ -42,4 +42,5 @@ Print  lines of output in the following order:
 
 ### My Solution
 
-- [Python](python.py)
+- [Python (only built-in)](python.py)
+- [Python (with numpy and scipy)](python-numpy-scipy.py)
