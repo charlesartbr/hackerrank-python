@@ -150,3 +150,6 @@ https://www.hackerrank.com/charlesartbr
 - **[Debugging](debugging)**
   * [Words Score](debugging/words-score)
   * [Default Arguments](debugging/default-arguments)
+
+- **[10 Days of Statistics](10-days-of-statistics)**
+  * [Day 0: Mean, Median, and Mode](10-days-of-statistics/day-0-mean-median-and-mode)
