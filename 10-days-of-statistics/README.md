@@ -3,3 +3,4 @@
 ### Solved problems:
 
 * [Day 0: Mean, Median, and Mode](day-0-mean-median-and-mode)
+* [Day 0: Weighted Mean](day-0-weighted-mean)

@@ -9,7 +9,7 @@ My practice with Python solving problems in HackerRank.
 
 https://www.hackerrank.com/charlesartbr
 
-### **115** solved problems:
+### **117** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -153,3 +153,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[10 Days of Statistics](10-days-of-statistics)**
   * [Day 0: Mean, Median, and Mode](10-days-of-statistics/day-0-mean-median-and-mode)
+  * [Day 0: Weighted Mean](10-days-of-statistics/day-0-weighted-mean)
