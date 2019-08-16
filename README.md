@@ -154,3 +154,4 @@ https://www.hackerrank.com/charlesartbr
 - **[10 Days of Statistics](10-days-of-statistics)**
   * [Day 0: Mean, Median, and Mode](10-days-of-statistics/day-0-mean-median-and-mode)
   * [Day 0: Weighted Mean](10-days-of-statistics/day-0-weighted-mean)
+  * [Day 1: Quartiles](10-days-of-statistics/day-1-quartiles)
