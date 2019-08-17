@@ -9,7 +9,10 @@ My practice with Python solving problems in HackerRank.
 
 https://www.hackerrank.com/charlesartbr
 
-### **118** solved problems:
+![Python](badges/python.png)
+![10 Days of Statistics](badges/10-days-of-statistics.png)
+
+### **120** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
