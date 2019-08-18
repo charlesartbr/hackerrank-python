@@ -7,3 +7,4 @@
 * [Day 1: Quartiles](day-1-quartiles)
 * [Day 1: Interquartile Range](day-1-interquartile-range)
 * [Day 1: Standard Deviation](day-1-standard-deviation)
+* [Day 2: Basic Probability](day-2-basic-probability)
