@@ -14,6 +14,4 @@ Obs. this is just an question and answer problem in HackerRank.
 
 ### My Solution
 
-- [Python 2 (only built-in)](python2.py)
-- [Python 3 (only built-in)](python3.py)
-- [Python 3 (with numpy)](python3-numpy.py)
+- [Python 3](python3.py)
