@@ -1,6 +1,7 @@
-from itertools import permutations
+from itertools import product
+from fractions import Fraction
 
-p = list(permutations([1,2,3,4,5,6], 2))
+p = list(product([1,2,3,4,5,6], repeat=2))
 
 c = len(p)
 
