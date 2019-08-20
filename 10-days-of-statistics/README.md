@@ -10,3 +10,4 @@
 * [Day 2: Basic Probability](day-2-basic-probability)
 * [Day 2: More Dice](day-2-more-dice)
 * [Day 2: Compound Event Probability](day-2-compound-event-probability)
+* [Day 3: Conditional Probability](day-3-conditional-probability)

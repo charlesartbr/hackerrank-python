@@ -12,7 +12,7 @@ https://www.hackerrank.com/charlesartbr
 ![Python](badges/python.png)
 ![10 Days of Statistics](badges/10-days-of-statistics.png)
 
-### **121** solved problems:
+### **124** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -163,3 +163,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 2: Basic Probability](10-days-of-statistics/day-2-basic-probability)
   * [Day 2: More Dice](10-days-of-statistics/day-2-more-dice)
   * [Day 2: Compound Event Probability](10-days-of-statistics/day-2-compound-event-probability)
+  * [Day 3: Conditional Probability](10-days-of-statistics/day-3-conditional-probability)
