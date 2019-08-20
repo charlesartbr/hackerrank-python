@@ -162,3 +162,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 1: Standard Deviation](10-days-of-statistics/day-1-standard-deviation)
   * [Day 2: Basic Probability](10-days-of-statistics/day-2-basic-probability)
   * [Day 2: More Dice](10-days-of-statistics/day-2-more-dice)
+  * [Day 2: Compound Event Probability](10-days-of-statistics/day-2-compound-event-probability)

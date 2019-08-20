@@ -9,3 +9,4 @@
 * [Day 1: Standard Deviation](day-1-standard-deviation)
 * [Day 2: Basic Probability](day-2-basic-probability)
 * [Day 2: More Dice](day-2-more-dice)
+* [Day 2: Compound Event Probability](day-2-compound-event-probability)
