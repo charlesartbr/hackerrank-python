@@ -12,3 +12,4 @@
 * [Day 2: Compound Event Probability](day-2-compound-event-probability)
 * [Day 3: Conditional Probability](day-3-conditional-probability)
 * [Day 3: Cards of the Same Suit](day-3-cards-of-the-same-suit)
+* [Day 3: Drawing Marbles](day-3-drawing-marbles)
