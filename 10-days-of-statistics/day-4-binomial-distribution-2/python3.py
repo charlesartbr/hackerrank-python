@@ -1,13 +1,14 @@
 from math import factorial
 
-ratio = 1.09 / (1.09 + 1)
+ratio = 12.0 / 100
+batch = 10
 
-trials = 6
+def binomial(n, p):
+    x = 0
+    for success in range(n, p + 1):
+        b = factorial(batch) / (factorial(success) * factorial(batch - success))
+        x += b * (ratio ** success) * ((1 - ratio) ** (batch - success))
+    return x
 
-x = 0
-
-for success in range(3, trials + 1):
-    b = factorial(trials) / (factorial(success) * factorial(trials - success))
-    x += b * (ratio ** success) * ((1 - ratio) ** (trials - success))
-
-print("%.3f" % x)
+print("%.3f" % binomial(0, 2))
+print("%.3f" % binomial(2, batch))
