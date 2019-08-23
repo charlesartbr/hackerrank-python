@@ -12,7 +12,7 @@ https://www.hackerrank.com/charlesartbr
 ![Python](badges/python.png)
 ![10 Days of Statistics](badges/10-days-of-statistics.png)
 
-### **128** solved problems:
+### **129** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -168,3 +168,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 3: Drawing Marbles](10-days-of-statistics/day-3-drawing-marbles)
   * [Day 4: Binomial Distribution I](10-days-of-statistics/day-4-binomial-distribution-1)
   * [Day 4: Binomial Distribution II](10-days-of-statistics/day-4-binomial-distribution-2)
+  * [Day 4: Geometric Distribution I](10-days-of-statistics/day-4-geometric-distribution-1)

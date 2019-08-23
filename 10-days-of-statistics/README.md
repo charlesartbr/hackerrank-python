@@ -15,3 +15,4 @@
 * [Day 3: Drawing Marbles](day-3-drawing-marbles)
 * [Day 4: Binomial Distribution I](day-4-binomial-distribution-1)
 * [Day 4: Binomial Distribution II](day-4-binomial-distribution-2)
+* [Day 4: Geometric Distribution I](geometric-distribution-1)
