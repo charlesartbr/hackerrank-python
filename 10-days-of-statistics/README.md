@@ -1,5 +1,7 @@
 ## 10 Days of Statistics
-    
+
+![10 Days of Statistics](../badges/10-days-of-statistics.png?s=4)
+
 ### Solved problems:
 
 * [Day 0: Mean, Median, and Mode](day-0-mean-median-and-mode)

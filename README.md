@@ -9,8 +9,8 @@ My practice with Python solving problems in HackerRank.
 
 https://www.hackerrank.com/charlesartbr
 
-![Python](badges/python.png)
-![10 Days of Statistics](badges/10-days-of-statistics.png)
+![Python](badges/python.png?s=5)
+![10 Days of Statistics](badges/10-days-of-statistics.png?s=4)
 
 ### **130** solved problems:
 
