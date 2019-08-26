@@ -20,3 +20,4 @@
 * [Day 4: Geometric Distribution I](day-4-geometric-distribution-1)
 * [Day 4: Geometric Distribution II](day-4-geometric-distribution-2)
 * [Day 5: Poisson Distribution I](day-5-poisson-distribution-1)
+* [Day 5: Poisson Distribution II](day-5-poisson-distribution-2)
