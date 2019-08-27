@@ -12,7 +12,7 @@ https://www.hackerrank.com/charlesartbr
 ![Python](badges/python.png?s=5)
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=4)
 
-### **132** solved problems:
+### **133** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -172,3 +172,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 4: Geometric Distribution II](10-days-of-statistics/day-4-geometric-distribution-2)
   * [Day 5: Poisson Distribution I](10-days-of-statistics/day-5-poisson-distribution-1)
   * [Day 5: Poisson Distribution II](10-days-of-statistics/day-5-poisson-distribution-2)
+  * [Day 5: Normal Distribution I](10-days-of-statistics/day-5-normal-distribution-1)
