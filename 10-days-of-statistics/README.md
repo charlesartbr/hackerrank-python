@@ -23,3 +23,4 @@
 * [Day 5: Poisson Distribution II](day-5-poisson-distribution-2)
 * [Day 5: Normal Distribution I](day-5-normal-distribution-1)
 * [Day 5: Normal Distribution II](day-5-normal-distribution-2)
+* [Day 6: The Central Limit Theorem I](day-6-the-central-limit-theorem-1)

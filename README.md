@@ -174,3 +174,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 5: Poisson Distribution II](10-days-of-statistics/day-5-poisson-distribution-2)
   * [Day 5: Normal Distribution I](10-days-of-statistics/day-5-normal-distribution-1)
   * [Day 5: Normal Distribution II](10-days-of-statistics/day-5-normal-distribution-2)
+  * [Day 6: The Central Limit Theorem I](10-days-of-statistics/day-6-the-central-limit-theorem-1)
