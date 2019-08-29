@@ -1,6 +1,6 @@
 ## 10 Days of Statistics
 
-![10 Days of Statistics](https://raw.githubusercontent.com/charlesartbr/hackerrank-python/master/badges/10-days-of-statistics.png?s=4)
+![10 Days of Statistics](https://raw.githubusercontent.com/charlesartbr/hackerrank-python/master/badges/10-days-of-statistics.png?s=5)
 
 ### Solved problems:
 
