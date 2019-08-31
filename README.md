@@ -12,7 +12,7 @@ https://www.hackerrank.com/charlesartbr
 ![Python](badges/python.png?s=5)
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 
-### **135** solved problems:
+### **136** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -175,3 +175,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 5: Normal Distribution I](10-days-of-statistics/day-5-normal-distribution-1)
   * [Day 5: Normal Distribution II](10-days-of-statistics/day-5-normal-distribution-2)
   * [Day 6: The Central Limit Theorem I](10-days-of-statistics/day-6-the-central-limit-theorem-1)
+  * [Day 6: The Central Limit Theorem II](10-days-of-statistics/day-6-the-central-limit-theorem-2)
