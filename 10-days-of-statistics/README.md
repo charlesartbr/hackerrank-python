@@ -26,3 +26,4 @@
 * [Day 6: The Central Limit Theorem I](day-6-the-central-limit-theorem-1)
 * [Day 6: The Central Limit Theorem II](day-6-the-central-limit-theorem-2)
 * [Day 6: The Central Limit Theorem III](day-6-the-central-limit-theorem-3)
+* [Day 7: Pearson Correlation Coefficient I](day-7-pearson-correlation-coefficient-1)
