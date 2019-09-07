@@ -28,3 +28,4 @@
 * [Day 6: The Central Limit Theorem III](day-6-the-central-limit-theorem-3)
 * [Day 7: Pearson Correlation Coefficient](day-7-pearson-correlation-coefficient)
 * [Day 7: Spearman's Rank Correlation Coefficient](day-7-spearman-rank-correlation-coefficient)
+* [Day 8: Least Square Regression Line](day-8-least-square-regression-line)

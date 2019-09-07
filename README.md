@@ -12,7 +12,7 @@ https://www.hackerrank.com/charlesartbr
 ![Python](badges/python.png?s=5)
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 
-### **139** solved problems:
+### **140** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -179,3 +179,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 6: The Central Limit Theorem III](10-days-of-statistics/day-6-the-central-limit-theorem-3)
   * [Day 7: Pearson Correlation Coefficient](10-days-of-statistics/day-7-pearson-correlation-coefficient)
   * [Day 7: Spearman's Rank Correlation Coefficient](10-days-of-statistics/day-7-spearman-rank-correlation-coefficient)
+  * [Day 8: Least Square Regression Line](10-days-of-statistics/day-8-least-square-regression-line)
