@@ -13,14 +13,10 @@ def std(v, n):
 σx = std(x, n)
 σy = std(y, n)
 
-mean_x = sum(x) / n
-mean_y = sum(y) / n
-
 p = sum((x[i] - µx) * (y[i] - µy) for i in range(n)) / (n * σx * σy)
 
 b = p * (σy / σx)
-
-a = mean_y - (b * mean_x)
+a = µy - (b * µx)
 
 score_x = 80
 
