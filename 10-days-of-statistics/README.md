@@ -29,3 +29,4 @@
 * [Day 7: Pearson Correlation Coefficient](day-7-pearson-correlation-coefficient)
 * [Day 7: Spearman's Rank Correlation Coefficient](day-7-spearman-rank-correlation-coefficient)
 * [Day 8: Least Square Regression Line](day-8-least-square-regression-line)
+* [Day 9: Multiple Linear Regression](day-9-multiple-linear-regression)
