@@ -5,3 +5,4 @@
 ### Solved problems:
 
 * [Day 0: Hello, World.](day-0-hello-world)
+* [Day 1: Data Types](day-1-data-types)
