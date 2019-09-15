@@ -48,3 +48,4 @@ HackerRank is the best place to learn and practice coding!
 ### My Solution
 
 - [Python 3](python3.py)
+- [Python 3 (one-liner)](python3-oneliner.py)
