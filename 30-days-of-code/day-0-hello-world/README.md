@@ -33,3 +33,4 @@ Welcome to 30 Days of Code!
 ### My Solution
 
 - [Python 3](python3.py)
+- [Python 3 (one-liner)](python3-oneliner.py)
