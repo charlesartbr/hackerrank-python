@@ -11,8 +11,9 @@ https://www.hackerrank.com/charlesartbr
 
 ![Python](badges/python.png?s=5)
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
+![30 Days of Code](badges/30-days-of-code.png?s=1)
 
-### **142** solved problems:
+### **143** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -181,3 +182,6 @@ https://www.hackerrank.com/charlesartbr
   * [Day 7: Spearman's Rank Correlation Coefficient](10-days-of-statistics/day-7-spearman-rank-correlation-coefficient)
   * [Day 8: Least Square Regression Line](10-days-of-statistics/day-8-least-square-regression-line)
   * [Day 9: Multiple Linear Regression](10-days-of-statistics/day-9-multiple-linear-regression)
+
+- **[30 Days of Code](30-days-of-code)**
+  * [Day 0: Hello, World.](30-days-of-code/day-0-hello-world)
