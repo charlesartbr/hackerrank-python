@@ -2,28 +2,20 @@ from sklearn import linear_model
 
 m, n = map(int, input().split())
 
-features = [[],[]]
-Y = []
+x = []
+y = []
 
 for i in range(n):
-    x = list(map(float, input().split()))
-    Y.append(x.pop())
-    for j in range(m):
-        features[j].append(x[j])
+    temp = list(map(float, input().split()))
+    y.append(temp.pop())
+    x.append(temp)
 
 q = int(input())
-
 queries = [list(map(float, input().split())) for i in range(q)]
 
 lm = linear_model.LinearRegression()
 
-for i in range(q):
-    
-    lm.fit(features, queries[i])
-    
-    a = lm.intercept_
-    b = lm.coef_
-    
-    y = a + sum((features[j][i] * b[j]) for j in range(m))
-
-    print(y)
+lm.fit(x, y)
+   
+for p in lm.predict(queries):
+    print(round(p, 2))
