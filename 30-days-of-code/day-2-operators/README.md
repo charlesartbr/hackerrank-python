@@ -43,3 +43,4 @@ Print the total meal cost, where totalCost is the rounded integer result of the 
 ### My Solution
 
 - [Python 3](python3.py)
+- [Python 3 (one-liner)](python3-oneliner.py)
