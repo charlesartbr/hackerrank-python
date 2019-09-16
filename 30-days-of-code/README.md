@@ -7,3 +7,4 @@
 * [Day 0: Hello, World.](day-0-hello-world)
 * [Day 1: Data Types](day-1-data-types)
 * [Day 2: Operators](day-2-operators)
+* [Day 3: Intro to Conditional Statements](day-3-conditional-statements)

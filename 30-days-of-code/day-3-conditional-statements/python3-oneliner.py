@@ -1,0 +1,1 @@
+(lambda n: print('Weird' if n%2==1 or 5<n<21 else 'Not Weird'))(int(input()))

@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=1)
 
-### **145** solved problems:
+### **146** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -187,3 +187,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 0: Hello, World.](30-days-of-code/day-0-hello-world)
   * [Day 1: Data Types](30-days-of-code/day-1-data-types)
   * [Day 2: Operators](30-days-of-code/day-2-operators)
+  * [Day 3: Intro to Conditional Statements](30-days-of-code/day-3-conditional-statements)
