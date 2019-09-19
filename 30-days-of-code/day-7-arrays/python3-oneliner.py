@@ -1,0 +1,1 @@
+(lambda x: print(*reversed(list(map(int,input().split())))))(input())

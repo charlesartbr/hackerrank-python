@@ -11,3 +11,4 @@
 * [Day 4: Class vs. Instance](day-4-class-vs-instance)
 * [Day 5: Loops](day-5-loops)
 * [Day 6: Let's Review](day-6-review-loop)
+* [Day 7: Arrays](day-7-arrays)
