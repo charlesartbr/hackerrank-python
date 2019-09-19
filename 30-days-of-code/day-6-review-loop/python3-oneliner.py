@@ -1,0 +1,1 @@
+[(lambda s: print(s[::2],s[1::2]))(input()) for _ in range(int(input()))]
