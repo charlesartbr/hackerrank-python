@@ -12,3 +12,4 @@
 * [Day 5: Loops](day-5-loops)
 * [Day 6: Let's Review](day-6-review-loop)
 * [Day 7: Arrays](day-7-arrays)
+* [Day 8: Dictionaries and Maps](day-8-dictionaries-and-maps)
