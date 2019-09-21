@@ -13,3 +13,4 @@
 * [Day 6: Let's Review](day-6-review-loop)
 * [Day 7: Arrays](day-7-arrays)
 * [Day 8: Dictionaries and Maps](day-8-dictionaries-and-maps)
+* [Day 9: Recursion 3](day-9-recursion)
