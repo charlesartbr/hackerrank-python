@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=2)
 
-### **152** solved problems:
+### **153** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -194,3 +194,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 7: Arrays](30-days-of-code/day-7-arrays)
   * [Day 8: Dictionaries and Maps](30-days-of-code/day-8-dictionaries-and-maps)
   * [Day 9: Recursion 3](30-days-of-code/day-9-recursion)
+  * [Day 10: Binary Numbers](30-days-of-code/day-10-binary-numbers)
