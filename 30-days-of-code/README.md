@@ -15,3 +15,4 @@
 * [Day 8: Dictionaries and Maps](day-8-dictionaries-and-maps)
 * [Day 9: Recursion 3](day-9-recursion)
 * [Day 10: Binary Numbers](day-10-binary-numbers)
+* [Day 11: 2D Arrays](day-11-2d-arrays)
