@@ -19,3 +19,4 @@
 * [Day 12: Inheritance](day-12-inheritance)
 * [Day 13: Abstract Classes](day-13-abstract-classes)
 * [Day 14: Scope](day-14-scope)
+* [Day 15: Linked List](day-15-linked-list)
