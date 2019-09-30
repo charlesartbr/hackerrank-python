@@ -21,3 +21,4 @@
 * [Day 14: Scope](day-14-scope)
 * [Day 15: Linked List](day-15-linked-list)
 * [Day 16: Exceptions - String to Integer](day-16-exceptions-string-to-integer)
+* [Day 17: More Exceptions](day-17-more-exceptions)
