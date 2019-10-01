@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=3)
 
-### **160** solved problems:
+### **161** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -202,3 +202,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 15: Linked List](30-days-of-code/day-15-linked-list)
   * [Day 16: Exceptions - String to Integer](30-days-of-code/day-16-exceptions-string-to-integer)
   * [Day 17: More Exceptions](30-days-of-code/day-17-more-exceptions)
+  * [Day 18: Queues and Stacks](30-days-of-code/day-18-queues-stacks)
