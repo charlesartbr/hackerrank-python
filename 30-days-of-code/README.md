@@ -24,3 +24,4 @@
 * [Day 17: More Exceptions](day-17-more-exceptions)
 * [Day 18: Queues and Stacks](day-18-queues-stacks)
 * [Day 19: Interfaces](day-19-interfaces)
+* [Day 20: Sorting](day-20-sorting)
