@@ -25,3 +25,5 @@
 * [Day 18: Queues and Stacks](day-18-queues-stacks)
 * [Day 19: Interfaces](day-19-interfaces)
 * [Day 20: Sorting](day-20-sorting)
+* Day 21: Generics (not possible in Python)
+* [Day 22: Binary Search Trees](day-22-binary-search-trees)
