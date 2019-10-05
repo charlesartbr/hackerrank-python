@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=3)
 
-### **163** solved problems:
+### **164** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -207,3 +207,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 20: Sorting](30-days-of-code/day-20-sorting)
   * Day 21: Generics (not possible in Python)
   * [Day 22: Binary Search Trees](30-days-of-code/day-22-binary-search-trees)
+  * [Day 23: BST Level-Order Traversal](30-days-of-code/day-23-binary-trees)
