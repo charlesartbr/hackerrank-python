@@ -11,7 +11,7 @@ https://www.hackerrank.com/charlesartbr
 
 ![Python](badges/python.png?s=5)
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
-![30 Days of Code](badges/30-days-of-code.png?s=3)
+![30 Days of Code](badges/30-days-of-code.png?s=4)
 
 ### **165** solved problems:
 
