@@ -1,8 +1,8 @@
 import os
 
-def count_pythons(path):
+def count_solved(path):
     
-    pythons = 0
+    solved = 0
 
     for entry in os.listdir(path):
 
@@ -12,12 +12,28 @@ def count_pythons(path):
         fullpath = os.path.join(path, entry)
         
         if os.path.isdir(fullpath):
-            if any(file.endswith('.py') for file in os.listdir(fullpath)):
-                pythons += 1   
-            else: 
-                print(fullpath, pythons)
-            pythons += count_pythons(fullpath)
-        
-    return pythons
 
-print(count_pythons('.'))
+            if any(file.endswith('.py') for file in os.listdir(fullpath)):
+                solved += 1   
+
+            solved += count_solved(fullpath)
+        
+    return solved
+
+solved = count_solved('.')
+
+print(solved, 'problems solved')
+
+with open("README.md", "r") as readme:
+    lines = []
+    for line in readme:
+        if 'solved problems' in line:
+            lines.append('### **' + str(solved) + '** solved problems:\n')
+        else:
+            lines.append(line)
+
+with open("README.md", "w") as readme:
+    readme.writelines(lines)
+
+        
+
