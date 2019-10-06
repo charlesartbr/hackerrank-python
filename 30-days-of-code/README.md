@@ -28,3 +28,4 @@
 * Day 21: Generics (not possible in Python)
 * [Day 22: Binary Search Trees](day-22-binary-search-trees)
 * [Day 23: BST Level-Order Traversal](day-23-binary-trees)
+* [Day 24: More Linked Lists](day-24-linked-list-deletion)
