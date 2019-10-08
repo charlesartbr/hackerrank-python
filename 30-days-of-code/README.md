@@ -30,3 +30,4 @@
 * [Day 23: BST Level-Order Traversal](day-23-binary-trees)
 * [Day 24: More Linked Lists](day-24-linked-list-deletion)
 * [Day 25: Running Time and Complexity](day-25-running-time-and-complexity)
+* [Day 26: Nested Logic](day-26-nested-logic)
