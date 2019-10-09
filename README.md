@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=4)
 
-### **159** solved problems:
+### **160** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -211,3 +211,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 24: More Linked Lists](30-days-of-code/day-24-linked-list-deletion)
   * [Day 25: Running Time and Complexity](30-days-of-code/day-25-running-time-and-complexity)
   * [Day 26: Nested Logic](30-days-of-code/day-26-nested-logic)
+  * [Day 27: Testing](30-days-of-code/day-27-testing)
