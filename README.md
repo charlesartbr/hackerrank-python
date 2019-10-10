@@ -212,3 +212,4 @@ https://www.hackerrank.com/charlesartbr
   * [Day 25: Running Time and Complexity](30-days-of-code/day-25-running-time-and-complexity)
   * [Day 26: Nested Logic](30-days-of-code/day-26-nested-logic)
   * [Day 27: Testing](30-days-of-code/day-27-testing)
+  * [Day 28: RegEx, Patterns, and Intro to Databases](30-days-of-code/day-28-regex-patterns)

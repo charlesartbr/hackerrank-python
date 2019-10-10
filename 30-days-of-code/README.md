@@ -32,3 +32,4 @@
 * [Day 25: Running Time and Complexity](day-25-running-time-and-complexity)
 * [Day 26: Nested Logic](day-26-nested-logic)
 * [Day 27: Testing](day-27-testing)
+* [Day 28: RegEx, Patterns, and Intro to Databases](day-28-regex-patterns)
