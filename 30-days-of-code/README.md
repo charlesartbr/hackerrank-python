@@ -33,3 +33,4 @@
 * [Day 26: Nested Logic](day-26-nested-logic)
 * [Day 27: Testing](day-27-testing)
 * [Day 28: RegEx, Patterns, and Intro to Databases](day-28-regex-patterns)
+* [Day 29: Bitwise AND](day-29-bitwise-and)
