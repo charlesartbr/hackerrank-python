@@ -8,3 +8,4 @@
 * [Python: Division](python-division)
 * [Loops](loops)
 * [Print Function](python-print)
+* [Write a function](write-a-function)

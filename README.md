@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **162** solved problems:
+### **163** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -22,6 +22,7 @@ https://www.hackerrank.com/charlesartbr
     * [Python: Division](introduction/python-division)
     * [Loops](introduction/loops)
     * [Print Function](introduction/python-print)
+    * [Write a function](introduction/write-a-function)
 
 - **[Basic Data Types](basic-data-types)**
     * [Lists](basic-data-types/lists)
