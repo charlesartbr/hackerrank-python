@@ -15,3 +15,4 @@
 * [Alphabet Rangoli](alphabet-rangoli)
 * [Capitalize!](capitalize)
 * [The Minion Game](the-minion-game)
+* [Merge the Tools!](merge-the-tools)
