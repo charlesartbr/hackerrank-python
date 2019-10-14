@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **163** solved problems:
+### **165** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -61,6 +61,7 @@ https://www.hackerrank.com/charlesartbr
   * [Check Strict Superset](sets/check-strict-superset)
   * [Set Mutations](sets/set-mutations)
   * [The Captain's Room](sets/the-captains-room)
+  * [No Idea!](sets/no-idea)
 
 - **[Math](math)**
   * [Polar Coordinates](math/polar-coordinates)
