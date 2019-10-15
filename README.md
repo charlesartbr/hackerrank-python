@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **165** solved problems:
+### **166** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -69,6 +69,7 @@ https://www.hackerrank.com/charlesartbr
   * [Integers Come In All Sizes](math/integers-come-in-all-sizes)
   * [Mod Divmod](math/mod-divmod)
   * [Triangle Quest](math/triangle-quest)
+  * [Find Angle MBC](math/find-angle)
 
 - **[Itertools](itertools)**
   * [itertools.permutations()](itertools/permutations)
