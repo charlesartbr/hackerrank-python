@@ -9,3 +9,4 @@
 * [Collections.namedtuple()](namedtuple)
 * [Word Order](word-order)
 * [Company Logo](company-logo)
+* [Piling Up!](piling-up)

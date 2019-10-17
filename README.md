@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **167** solved problems:
+### **168** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -89,6 +89,7 @@ https://www.hackerrank.com/charlesartbr
   * [Collections.namedtuple()](collections/namedtuple)
   * [Word Order](collections/word-order)
   * [Company Logo](collections/company-logo)
+  * [Piling Up!](collections/piling-up)
 
 - **[Date and Time](date-time)**
   * [Calendar Module](date-time/calendar-module)
