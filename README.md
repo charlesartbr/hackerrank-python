@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **168** solved problems:
+### **170** solved problems:
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
@@ -133,6 +133,7 @@ https://www.hackerrank.com/charlesartbr
   * [Validating Credit Card Numbers](regex-and-parsing/validating-credit-card-number)
   * [Validating Postal Codes](regex-and-parsing/validating-postalcode)
   * [Matrix Script](regex-and-parsing/matrix-script)
+  * [Regex Substitution](regex-and-parsing/re-sub-regex-substitution)
 
 - **[XML](xml)**
   * [XML 1 - Find the Score](xml/xml-1-find-the-score)
