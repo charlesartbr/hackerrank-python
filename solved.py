@@ -22,13 +22,15 @@ def count_solved(path):
 
 solved = count_solved('.')
 
-print(solved, 'problems solved')
+txt = 'challenges solved'
+
+print(solved, txt)
 
 with open("README.md", "r") as readme:
     lines = []
     for line in readme:
-        if 'solved problems' in line:
-            lines.append('### **' + str(solved) + '** solved problems:\n')
+        if txt in line:
+            lines.append('### **' + str(solved) + '** ' + txt + ':\n')
         else:
             lines.append(line)
 
