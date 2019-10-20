@@ -2,6 +2,8 @@
 
 ![Python](https://raw.githubusercontent.com/charlesartbr/hackerrank-python/master/badges/python.png?s=5)
 
+### **115** challenges solved:
+
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
     * [Python If-Else](introduction/python-if-else)
