@@ -15,154 +15,155 @@ https://www.hackerrank.com/charlesartbr
 
 ### **170** solved problems:
 
-- **[Introduction](introduction)**
-    * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
-    * [Python If-Else](introduction/python-if-else)
-    * [Arithmetic Operators](introduction/arithmetic-operators)
-    * [Python: Division](introduction/python-division)
-    * [Loops](introduction/loops)
-    * [Print Function](introduction/python-print)
-    * [Write a function](introduction/write-a-function)
+- **[Python](python)**
+    - **[Introduction](python/introduction)**
+        * [Say "Hello, World!" With Python](python/introduction/say-hello-world-with-python)
+        * [Python If-Else](python/introduction/python-if-else)
+        * [Arithmetic Operators](python/introduction/arithmetic-operators)
+        * [Python: Division](python/introduction/python-division)
+        * [Loops](python/introduction/loops)
+        * [Print Function](python/introduction/python-print)
+        * [Write a function](python/introduction/write-a-function)
 
-- **[Basic Data Types](basic-data-types)**
-    * [Lists](basic-data-types/lists)
-    * [Tuples](basic-data-types/tuples)
-    * [Finding the percentage](basic-data-types/finding-the-percentage)
-    * [Nested Lists](basic-data-types/nested-list)
-    * [Find the Runner-Up Score!](basic-data-types/find-the-runner-up-score)
-    * [List Comprehensions](basic-data-types/list-comprehensions)
+    - **[Basic Data Types](python/basic-data-types)**
+        * [Lists](python/basic-data-types/lists)
+        * [Tuples](python/basic-data-types/tuples)
+        * [Finding the percentage](python/basic-data-types/finding-the-percentage)
+        * [Nested Lists](python/basic-data-types/nested-list)
+        * [Find the Runner-Up Score!](python/basic-data-types/find-the-runner-up-score)
+        * [List Comprehensions](python/basic-data-types/list-comprehensions)
 
-- **[Strings](strings)**
-  * [sWAP cASE](strings/swap-case)
-  * [String Split and Join](strings/string-split-and-join)
-  * [What's Your Name?](strings/whats-your-name)
-  * [Mutations](strings/mutations)
-  * [Find a string](strings/find-a-string)
-  * [String Validators](strings/string-validators)
-  * [Text Alignment](strings/text-alignment)
-  * [Text Wrap](strings/text-wrap)
-  * [Designer Door Mat](strings/designer-door-mat)
-  * [String Formatting](strings/string-formatting)
-  * [Alphabet Rangoli](strings/alphabet-rangoli)
-  * [Capitalize!](strings/capitalize)
-  * [The Minion Game](strings/the-minion-game)
-  * [Merge the Tools!](strings/merge-the-tools)
+    - **[Strings](python/strings)**
+        * [sWAP cASE](python/strings/swap-case)
+        * [String Split and Join](python/strings/string-split-and-join)
+        * [What's Your Name?](python/strings/whats-your-name)
+        * [Mutations](python/strings/mutations)
+        * [Find a string](python/strings/find-a-string)
+        * [String Validators](python/strings/string-validators)
+        * [Text Alignment](python/strings/text-alignment)
+        * [Text Wrap](python/strings/text-wrap)
+        * [Designer Door Mat](python/strings/designer-door-mat)
+        * [String Formatting](python/strings/string-formatting)
+        * [Alphabet Rangoli](python/strings/alphabet-rangoli)
+        * [Capitalize!](python/strings/capitalize)
+        * [The Minion Game](python/strings/the-minion-game)
+        * [Merge the Tools!](python/strings/merge-the-tools)
 
-- **[Sets](sets)**
-  * [Introduction to Sets](sets/introduction-to-sets)
-  * [Symmetric Difference](sets/symmetric-difference)
-  * [Set .add()](sets/set-add)
-  * [Set .discard(), .remove() & .pop()](sets/set-discard-remove-pop)
-  * [Set .union() Operation](sets/set-union)
-  * [Set .intersection() Operation](sets/set-intersection)
-  * [Set .difference() Operation](sets/set-difference)
-  * [Set .symmetric_difference() Operation](sets/set-symmetric-difference)
-  * [Check Subset](sets/check-subset)
-  * [Check Strict Superset](sets/check-strict-superset)
-  * [Set Mutations](sets/set-mutations)
-  * [The Captain's Room](sets/the-captains-room)
-  * [No Idea!](sets/no-idea)
+    - **[Sets](python/sets)**
+        * [Introduction to Sets](python/sets/introduction-to-sets)
+        * [Symmetric Difference](python/sets/symmetric-difference)
+        * [Set .add()](python/sets/set-add)
+        * [Set .discard(), .remove() & .pop()](python/sets/set-discard-remove-pop)
+        * [Set .union() Operation](python/sets/set-union)
+        * [Set .intersection() Operation](python/sets/set-intersection)
+        * [Set .difference() Operation](python/sets/set-difference)
+        * [Set .symmetric_difference() Operation](python/sets/set-symmetric-difference)
+        * [Check Subset](python/sets/check-subset)
+        * [Check Strict Superset](python/sets/check-strict-superset)
+        * [Set Mutations](python/sets/set-mutations)
+        * [The Captain's Room](python/sets/the-captains-room)
+        * [No Idea!](python/sets/no-idea)
 
-- **[Math](math)**
-  * [Polar Coordinates](math/polar-coordinates)
-  * [Power - Mod Power](math/power-mod-power) 
-  * [Integers Come In All Sizes](math/integers-come-in-all-sizes)
-  * [Mod Divmod](math/mod-divmod)
-  * [Triangle Quest](math/triangle-quest)
-  * [Triangle Quest 2](math/triangle-quest-2)
-  * [Find Angle MBC](math/find-angle)
+    - **[Math](python/math)**
+        * [Polar Coordinates](python/math/polar-coordinates)
+        * [Power - Mod Power](python/math/power-mod-power) 
+        * [Integers Come In All Sizes](python/math/integers-come-in-all-sizes)
+        * [Mod Divmod](python/math/mod-divmod)
+        * [Triangle Quest](python/math/triangle-quest)
+        * [Triangle Quest 2](python/math/triangle-quest-2)
+        * [Find Angle MBC](python/math/find-angle)
 
-- **[Itertools](itertools)**
-  * [itertools.permutations()](itertools/permutations)
-  * [itertools.combinations()](itertools/combinations)
-  * [itertools.combinations_with_replacement()](itertools/combinations-with-replacement)
-  * [itertools.product()](itertools/product)
-  * [Compress the String!](itertools/compress-the-string)
-  * [Iterables and Iterators](itertools/iterables-and-iterators)
-  * [Maximize It!](itertools/maximize-it)
-  
-- **[Collections](collections)**
-  * [collections.Counter()](collections/counter)
-  * [DefaultDict Tutorial](collections/defaultdict-tutorial)
-  * [Collections.OrderedDict()](collections/ordereddict)
-  * [Collections.deque()](collections/deque)
-  * [Collections.namedtuple()](collections/namedtuple)
-  * [Word Order](collections/word-order)
-  * [Company Logo](collections/company-logo)
-  * [Piling Up!](collections/piling-up)
+    - **[Itertools](python/itertools)**
+        * [itertools.permutations()](python/itertools/permutations)
+        * [itertools.combinations()](python/itertools/combinations)
+        * [itertools.combinations_with_replacement()](python/itertools/combinations-with-replacement)
+        * [itertools.product()](python/itertools/product)
+        * [Compress the String!](python/itertools/compress-the-string)
+        * [Iterables and Iterators](python/itertools/iterables-and-iterators)
+        * [Maximize It!](python/itertools/maximize-it)
+    
+    - **[Collections](python/collections)**
+        * [collections.Counter()](python/collections/counter)
+        * [DefaultDict Tutorial](python/collections/defaultdict-tutorial)
+        * [Collections.OrderedDict()](python/collections/ordereddict)
+        * [Collections.deque()](python/collections/deque)
+        * [Collections.namedtuple()](python/collections/namedtuple)
+        * [Word Order](python/collections/word-order)
+        * [Company Logo](python/collections/company-logo)
+        * [Piling Up!](python/collections/piling-up)
 
-- **[Date and Time](date-time)**
-  * [Calendar Module](date-time/calendar-module)
-  * [Time Delta](date-time/time-delta)
+    - **[Date and Time](python/date-time)**
+        * [Calendar Module](python/date-time/calendar-module)
+        * [Time Delta](python/date-time/time-delta)
 
-- **[Errors and Exceptions](errors-exceptions)**
-  * [Incorrect Regex](errors-exceptions/incorrect-regex)
-  * [Exceptions](errors-exceptions/exceptions)
+    - **[Errors and Exceptions](python/errors-exceptions)**
+        * [Incorrect Regex](python/errors-exceptions/incorrect-regex)
+        * [Exceptions](python/errors-exceptions/exceptions)
 
-- **[Classes](classes)**
-  * [Classes: Dealing with Complex Numbers](classes/class-1-dealing-with-complex-numbers)
-  * [Class 2 - Find the Torsional Angle](classes/class-2-find-the-torsional-angle)
+    - **[Classes](python/classes)**
+        * [Classes: Dealing with Complex Numbers](python/classes/class-1-dealing-with-complex-numbers)
+        * [Class 2 - Find the Torsional Angle](python/classes/class-2-find-the-torsional-angle)
 
-- **[Built-Ins](built-ins)**
-  * [Zipped!](built-ins/zipped)
-  * [Python Evaluation](built-ins/eval)
-  * [Any or All](built-ins/any-or-all)
-  * [Input()](built-ins/input)
-  * [Athlete Sort](built-ins/athlete-sort)
-  * [ginortS](built-ins/ginorts)
+    - **[Built-Ins](python/built-ins)**
+        * [Zipped!](python/built-ins/zipped)
+        * [Python Evaluation](python/built-ins/eval)
+        * [Any or All](python/built-ins/any-or-all)
+        * [Input()](python/built-ins/input)
+        * [Athlete Sort](python/built-ins/athlete-sort)
+        * [ginortS](python/built-ins/ginorts)
 
-- **[Functionals](functionals)**
-  * [Map and Lambda Function](functionals/map-and-lambda-expression)
-  * [Validating Email Addresses With a Filter](functionals/validate-list-of-email-address-with-filter)
-  * [Reduce Function](functionals/reduce-function)
+    - **[Functionals](python/functionals)**
+        * [Map and Lambda Function](python/functionals/map-and-lambda-expression)
+        * [Validating Email Addresses With a Filter](python/functionals/validate-list-of-email-address-with-filter)
+        * [Reduce Function](python/functionals/reduce-function)
 
-- **[Regex and Parsing](regex-and-parsing)**
-  * [Validating and Parsing Email Addresses](regex-and-parsing/validating-named-email-addresses)
-  * [Detect Floating Point Number](regex-and-parsing/detect-floating-point-number)
-  * [Re.split()](regex-and-parsing/re-split)
-  * [Group(), Groups() & Groupdict()](regex-and-parsing/re-group-groups)
-  * [Re.findall() & Re.finditer()](regex-and-parsing/re-findall-re-finditer)
-  * [Re.start() & Re.end()](regex-and-parsing/re-start-re-end)
-  * [Validating Roman Numerals](regex-and-parsing/validate-a-roman-number)
-  * [Validating phone numbers](regex-and-parsing/validating-the-phone-number)
-  * [Hex Color Code](regex-and-parsing/hex-color-code)
-  * [HTML Parser - Part 1](regex-and-parsing/html-parser-part-1)
-  * [HTML Parser - Part 2](regex-and-parsing/html-parser-part-2)
-  * [Detect HTML Tags, Attributes and Attribute Values](regex-and-parsing/detect-html-tags-attributes-and-attribute-values)
-  * [Validating UID](regex-and-parsing/validating-uid)
-  * [Validating Credit Card Numbers](regex-and-parsing/validating-credit-card-number)
-  * [Validating Postal Codes](regex-and-parsing/validating-postalcode)
-  * [Matrix Script](regex-and-parsing/matrix-script)
-  * [Regex Substitution](regex-and-parsing/re-sub-regex-substitution)
+    - **[Regex and Parsing](python/regex-and-parsing)**
+        * [Validating and Parsing Email Addresses](python/regex-and-parsing/validating-named-email-addresses)
+        * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
+        * [Re.split()](python/regex-and-parsing/re-split)
+        * [Group(), Groups() & Groupdict()](python/regex-and-parsing/re-group-groups)
+        * [Re.findall() & Re.finditer()](python/regex-and-parsing/re-findall-re-finditer)
+        * [Re.start() & Re.end()](python/regex-and-parsing/re-start-re-end)
+        * [Validating Roman Numerals](python/regex-and-parsing/validate-a-roman-number)
+        * [Validating phone numbers](python/regex-and-parsing/validating-the-phone-number)
+        * [Hex Color Code](python/regex-and-parsing/hex-color-code)
+        * [HTML Parser - Part 1](python/regex-and-parsing/html-parser-part-1)
+        * [HTML Parser - Part 2](python/regex-and-parsing/html-parser-part-2)
+        * [Detect HTML Tags, Attributes and Attribute Values](python/regex-and-parsing/detect-html-tags-attributes-and-attribute-values)
+        * [Validating UID](python/regex-and-parsing/validating-uid)
+        * [Validating Credit Card Numbers](python/regex-and-parsing/validating-credit-card-number)
+        * [Validating Postal Codes](python/regex-and-parsing/validating-postalcode)
+        * [Matrix Script](python/regex-and-parsing/matrix-script)
+        * [Regex Substitution](python/regex-and-parsing/re-sub-regex-substitution)
 
-- **[XML](xml)**
-  * [XML 1 - Find the Score](xml/xml-1-find-the-score)
-  * [XML 2 - Find the Maximum Depth](xml/xml2-find-the-maximum-depth)
+    - **[XML](python/xml)**
+        * [XML 1 - Find the Score](python/xml/xml-1-find-the-score)
+        * [XML 2 - Find the Maximum Depth](python/xml/xml2-find-the-maximum-depth)
 
-- **[Closures and Decorators](closures-and-decorators)**
-  * [Standardize Mobile Number Using Decorators](closures-and-decorators/standardize-mobile-number-using-decorators)
-  * [Decorators 2 - Name Directory](closures-and-decorators/decorators-2-name-directory)
+    - **[Closures and Decorators](python/closures-and-decorators)**
+        * [Standardize Mobile Number Using Decorators](python/closures-and-decorators/standardize-mobile-number-using-decorators)
+        * [Decorators 2 - Name Directory](python/closures-and-decorators/decorators-2-name-directory)
 
-- **[NumPy](numpy)**
-  * [Arrays](numpy/arrays)
-  * [Shape and Reshape](numpy/shape-reshape)
-  * [Concatenate](numpy/concatenate)
-  * [Zeros and Ones](numpy/zeros-and-ones)
-  * [Eye and Identity](numpy/eye-and-identity)
-  * [Array Mathematics](numpy/array-mathematics)
-  * [Floor, Ceil and Rint](numpy/floor-ceil-and-rint)
-  * [Sum and Prod](numpy/sum-and-prod)
-  * [Min and Max](numpy/min-and-max)
-  * [Mean, Var, and Std](numpy/mean-var-and-std)
-  * [Dot and Cross](numpy/dot-and-cross)
-  * [Inner and Outer](numpy/inner-and-outer)
-  * [Transpose and Flatten](numpy/transpose-and-flatten)
-  * [Polynomials](numpy/polynomials)
-  * [Linear Algebra](numpy/linear-algebra)
+    - **[NumPy](python/numpy)**
+        * [Arrays](python/numpy/arrays)
+        * [Shape and Reshape](python/numpy/shape-reshape)
+        * [Concatenate](python/numpy/concatenate)
+        * [Zeros and Ones](python/numpy/zeros-and-ones)
+        * [Eye and Identity](python/numpy/eye-and-identity)
+        * [Array Mathematics](python/numpy/array-mathematics)
+        * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
+        * [Sum and Prod](python/numpy/sum-and-prod)
+        * [Min and Max](python/numpy/min-and-max)
+        * [Mean, Var, and Std](python/numpy/mean-var-and-std)
+        * [Dot and Cross](python/numpy/dot-and-cross)
+        * [Inner and Outer](python/numpy/inner-and-outer)
+        * [Transpose and Flatten](python/numpy/transpose-and-flatten)
+        * [Polynomials](python/numpy/polynomials)
+        * [Linear Algebra](python/numpy/linear-algebra)
 
-- **[Debugging](debugging)**
-  * [Words Score](debugging/words-score)
-  * [Default Arguments](debugging/default-arguments)
+    - **[Debugging](python/debugging)**
+        * [Words Score](python/debugging/words-score)
+        * [Default Arguments](python/debugging/default-arguments)
 
 - **[10 Days of Statistics](10-days-of-statistics)**
   * [Day 0: Mean, Median, and Mode](10-days-of-statistics/day-0-mean-median-and-mode)
