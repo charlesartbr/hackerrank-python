@@ -1,6 +1,6 @@
 # Python
 
-![Python](https://raw.githubusercontent.com/charlesartbr/hackerrank-master/badges/python.png?s=5)
+![Python](https://raw.githubusercontent.com/charlesartbr/hackerrank-python/master/badges/python.png?s=5)
 
 - **[Introduction](introduction)**
     * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
