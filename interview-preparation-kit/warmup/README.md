@@ -3,3 +3,4 @@
 ### **1/4** challenges solved:
 
 * [Sock Merchant](sock-merchant)
+* [Counting Valleys](counting-valleys)

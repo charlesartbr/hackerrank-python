@@ -228,3 +228,4 @@ https://www.hackerrank.com/charlesartbr
 - **[Interview Preparation Kit](interview-preparation-kit)**
     - **[Warm-up Challenges](interview-preparation-kit/warmup)**
         * [Sock Merchant](interview-preparation-kit/warmup/sock-merchant)
+        * [Counting Valleys](interview-preparation-kit/warmup/counting-valleys)
