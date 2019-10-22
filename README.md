@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **171** challenges solved:
+### **173** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -229,3 +229,4 @@ https://www.hackerrank.com/charlesartbr
     - **[Warm-up Challenges](interview-preparation-kit/warmup)**
         * [Sock Merchant](interview-preparation-kit/warmup/sock-merchant)
         * [Counting Valleys](interview-preparation-kit/warmup/counting-valleys)
+        * [Jumping on the Clouds](interview-preparation-kit/warmup/jumping-on-the-clouds)
