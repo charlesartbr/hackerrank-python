@@ -231,3 +231,5 @@ https://www.hackerrank.com/charlesartbr
         * [Counting Valleys](interview-preparation-kit/warmup/counting-valleys)
         * [Jumping on the Clouds](interview-preparation-kit/warmup/jumping-on-the-clouds)
         * [Repeated String](interview-preparation-kit/warmup/repeated-string)
+    - **[Arrays](interview-preparation-kit/arrays)**
+        * [2D Array - DS](interview-preparation-kit/arrays/2d-array)
