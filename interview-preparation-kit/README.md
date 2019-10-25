@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **5/69** challenges solved:
+### **6/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -10,3 +10,4 @@
 
 - **[Arrays](arrays)**
     * [2D Array - DS](arrays/2d-array)
+    * [Arrays: Left Rotation](arrays/left-rotation)

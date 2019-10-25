@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **174** challenges solved:
+### **176** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -225,7 +225,7 @@ https://www.hackerrank.com/charlesartbr
   * [Day 28: RegEx, Patterns, and Intro to Databases](30-days-of-code/day-28-regex-patterns)
   * [Day 29: Bitwise AND](30-days-of-code/day-29-bitwise-and)
 
-- **[Interview Preparation Kit](interview-preparation-kit)**
+- **[Interview Preparation Kit](interview-preparation-kit)**- 
     - **[Warm-up Challenges](interview-preparation-kit/warmup)**
         * [Sock Merchant](interview-preparation-kit/warmup/sock-merchant)
         * [Counting Valleys](interview-preparation-kit/warmup/counting-valleys)
@@ -233,3 +233,4 @@ https://www.hackerrank.com/charlesartbr
         * [Repeated String](interview-preparation-kit/warmup/repeated-string)
     - **[Arrays](interview-preparation-kit/arrays)**
         * [2D Array - DS](interview-preparation-kit/arrays/2d-array)
+        * [Arrays: Left Rotation](interview-preparation-kit/arrays/left-rotation)
