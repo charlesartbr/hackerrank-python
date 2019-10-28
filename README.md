@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **178** challenges solved:
+### **179** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -236,3 +236,4 @@ https://www.hackerrank.com/charlesartbr
         * [Arrays: Left Rotation](interview-preparation-kit/arrays/left-rotation)
         * [New Year Chaos](interview-preparation-kit/arrays/new-year-chaos)
         * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
+        * [Array Manipulation](interview-preparation-kit/arrays/array-manipulation)

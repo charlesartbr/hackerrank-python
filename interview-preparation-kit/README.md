@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **8/69** challenges solved:
+### **9/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -13,3 +13,4 @@
     * [Arrays: Left Rotation](arrays/left-rotation)
     * [New Year Chaos](arrays/new-year-chaos)
     * [Minimum Swaps 2](arrays/minimum-swaps-2)
+    * [Array Manipulation](arrays/array-manipulation)
