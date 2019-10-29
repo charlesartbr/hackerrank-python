@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **9/69** challenges solved:
+### **10/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -14,3 +14,6 @@
     * [New Year Chaos](arrays/new-year-chaos)
     * [Minimum Swaps 2](arrays/minimum-swaps-2)
     * [Array Manipulation](arrays/array-manipulation)
+
+- **[Dictionaries and Hashmaps](dictionaries-hashmaps)**
+    * [Hash Tables: Ransom Note](dictionaries-hashmaps/ransom-note)
