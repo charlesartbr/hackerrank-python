@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **10/69** challenges solved:
+### **11/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -17,3 +17,4 @@
 
 - **[Dictionaries and Hashmaps](dictionaries-hashmaps)**
     * [Hash Tables: Ransom Note](dictionaries-hashmaps/ransom-note)
+    * [Two Strings](dictionaries-hashmaps/two-strings)
