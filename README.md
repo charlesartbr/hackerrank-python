@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **182** challenges solved:
+### **183** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -241,3 +241,5 @@ https://www.hackerrank.com/charlesartbr
         * [Hash Tables: Ransom Note](interview-preparation-kit/dictionaries-hashmaps/ransom-note)
         * [Two Strings](interview-preparation-kit/dictionaries-hashmaps/two-strings)
         * [Sherlock and Anagrams](interview-preparation-kit/dictionaries-hashmaps/sherlock-and-anagrams)
+    - **[String Manipulation](interview-preparation-kit/string-manipulation)**
+        * [Alternating Characters](interview-preparation-kit/string-manipulation/alternating-characters)

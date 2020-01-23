@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **12/69** challenges solved:
+### **13/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -19,3 +19,6 @@
     * [Hash Tables: Ransom Note](dictionaries-hashmaps/ransom-note)
     * [Two Strings](dictionaries-hashmaps/two-strings)
     * [Sherlock and Anagrams](dictionaries-hashmaps/sherlock-and-anagrams)
+
+- **[String Manipulation](string-manipulation)**
+    * [Alternating Characters](string-manipulation/alternating-characters)
