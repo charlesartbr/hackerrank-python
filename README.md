@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **183** challenges solved:
+### **184** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -243,3 +243,5 @@ https://www.hackerrank.com/charlesartbr
         * [Sherlock and Anagrams](interview-preparation-kit/dictionaries-hashmaps/sherlock-and-anagrams)
     - **[String Manipulation](interview-preparation-kit/string-manipulation)**
         * [Alternating Characters](interview-preparation-kit/string-manipulation/alternating-characters)
+    - **[Sorting](interview-preparation-kit/sorting)**
+        * [Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
