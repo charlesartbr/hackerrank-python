@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **185** challenges solved:
+### **186** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -225,7 +225,7 @@ https://www.hackerrank.com/charlesartbr
   * [Day 28: RegEx, Patterns, and Intro to Databases](30-days-of-code/day-28-regex-patterns)
   * [Day 29: Bitwise AND](30-days-of-code/day-29-bitwise-and)
 
-- **[Interview Preparation Kit](interview-preparation-kit)**- 
+- **[Interview Preparation Kit](interview-preparation-kit)** 
     - **[Warm-up Challenges](interview-preparation-kit/warmup)**
         * [Sock Merchant](interview-preparation-kit/warmup/sock-merchant)
         * [Counting Valleys](interview-preparation-kit/warmup/counting-valleys)
@@ -246,3 +246,6 @@ https://www.hackerrank.com/charlesartbr
     - **[Sorting](interview-preparation-kit/sorting)**
         * [Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
         * [Mark and Toys](interview-preparation-kit/sorting/mark-and-toys)
+
+- **[Hack the Interview II - Global](hack-the-interview-ii-global)**
+    * [Product Distribution](hack-the-interview-ii-global/distribution-in-m-bins)
