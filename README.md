@@ -249,3 +249,4 @@ https://www.hackerrank.com/charlesartbr
 
 - **[Hack the Interview II - Global](hack-the-interview-ii-global)**
     * [Product Distribution](hack-the-interview-ii-global/distribution-in-m-bins)
+    * [Maximal Char Requests](hack-the-interview-ii-global/maximal-char-requests)
