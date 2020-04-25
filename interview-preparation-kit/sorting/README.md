@@ -1,5 +1,6 @@
 # Interview Preparation Kit - Sorting
 
-### **1/5** challenges solved:
+### **2/5** challenges solved:
 
 - **[Bubble Sort](bubble-sort)
+- **[Mark and Toys](mark-and-toys)
