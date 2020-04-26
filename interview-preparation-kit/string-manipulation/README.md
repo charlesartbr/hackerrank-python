@@ -1,5 +1,6 @@
 # String Manipulation
 
-### **1/5** challenges solved:
+### **2/5** challenges solved:
 
 * [Alternating Characters](alternating-characters)
+* [Strings: Making Anagrams](making-anagrams)
