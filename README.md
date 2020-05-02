@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **189** challenges solved:
+### **190** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -249,6 +249,7 @@ https://www.hackerrank.com/charlesartbr
         * [Mark and Toys](interview-preparation-kit/sorting/mark-and-toys)
     - **[Greedy Algorithms](interview-preparation-kit/greedy-algorithms)**
         * [Minimum Absolute Difference in an Array](interview-preparation-kit/greedy-algorithms/minimum-absolute-difference-in-an-array)
+        * [Luck Balance](interview-preparation-kit/greedy-algorithms/luck-balance)
 
 - **[Hack the Interview II - Global](hack-the-interview-ii-global)**
     * [Product Distribution](hack-the-interview-ii-global/distribution-in-m-bins)

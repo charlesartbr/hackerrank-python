@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **17/69** challenges solved:
+### **18/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -30,3 +30,4 @@
 
 - **[Greedy Algorithms](greedy-algorithms)**
     * [Minimum Absolute Difference in an Array](greedy-algorithms/minimum-absolute-difference-in-an-array)
+    * [Luck Balance](greedy-algorithms/luck-balance)
