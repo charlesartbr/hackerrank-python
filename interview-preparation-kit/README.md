@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **18/69** challenges solved:
+### **19/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -31,3 +31,6 @@
 - **[Greedy Algorithms](greedy-algorithms)**
     * [Minimum Absolute Difference in an Array](greedy-algorithms/minimum-absolute-difference-in-an-array)
     * [Luck Balance](greedy-algorithms/luck-balance)
+
+- **[Tress](trees)**
+    * [Tree: Height of a Binary Tree](trees/tree-height-of-a-binary-tree)
