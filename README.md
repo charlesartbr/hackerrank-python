@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **191** challenges solved:
+### **192** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -252,6 +252,7 @@ https://www.hackerrank.com/charlesartbr
         * [Luck Balance](interview-preparation-kit/greedy-algorithms/luck-balance)
     - **[Tress](interview-preparation-kit/trees)**
         * [Tree: Height of a Binary Tree](interview-preparation-kit/trees/tree-height-of-a-binary-tree)
+        * [Binary Search Tree: Lowest Common Ancestor](interview-preparation-kit/trees/binary-search-tree-lowest-common-ancestor)
 
 - **[Hack the Interview II - Global](hack-the-interview-ii-global)**
     * [Product Distribution](hack-the-interview-ii-global/distribution-in-m-bins)
