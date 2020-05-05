@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **20/69** challenges solved:
+### **21/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -35,3 +35,6 @@
 - **[Tress](trees)**
     * [Tree: Height of a Binary Tree](trees/tree-height-of-a-binary-tree)
     * [Binary Search Tree: Lowest Common Ancestor](trees/binary-search-tree-lowest-common-ancestor)
+
+- **[Linked Lists](linked-lists)**
+    * [Insert a node at a specific position in a linked list](linked-lists/insert-a-node-at-a-specific-position-in-a-linked-list)
