@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **24/69** challenges solved:
+### **25/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -41,3 +41,4 @@
     * [Inserting a Node Into a Sorted Doubly Linked List](linked-lists/insert-a-node-into-a-sorted-doubly-linked-list)
     * [Reverse a doubly linked list](linked-lists/reverse-a-doubly-linked-list)
     * [Find Merge Point of Two Lists](linked-lists/find-the-merge-point-of-two-joined-linked-lists)
+    * [Detect a Cycle](linked-lists/linked-list-cycle)

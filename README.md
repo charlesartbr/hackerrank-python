@@ -13,7 +13,7 @@ https://www.hackerrank.com/charlesartbr
 ![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 
-### **196** challenges solved:
+### **197** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -258,6 +258,7 @@ https://www.hackerrank.com/charlesartbr
         * [Inserting a Node Into a Sorted Doubly Linked List](interview-preparation-kit/linked-lists/insert-a-node-into-a-sorted-doubly-linked-list)
         * [Reverse a doubly linked list](interview-preparation-kit/linked-lists/reverse-a-doubly-linked-list)
         * [Find Merge Point of Two Lists](interview-preparation-kit/linked-lists/find-the-merge-point-of-two-joined-linked-lists)
+        * [Detect a Cycle](interview-preparation-kit/linked-lists/linked-list-cycle)
 
 - **[Hack the Interview II - Global](hack-the-interview-ii-global)**
     * [Product Distribution](hack-the-interview-ii-global/distribution-in-m-bins)
