@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **25/69** challenges solved:
+### **26/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -42,3 +42,6 @@
     * [Reverse a doubly linked list](linked-lists/reverse-a-doubly-linked-list)
     * [Find Merge Point of Two Lists](linked-lists/find-the-merge-point-of-two-joined-linked-lists)
     * [Detect a Cycle](linked-lists/linked-list-cycle)
+
+- **[Recursion and Backtracking](recursion-backtracking)**
+    * [Recursion: Fibonacci Numbers](recursion-backtracking/fibonacci-numbers)
