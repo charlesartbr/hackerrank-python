@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **26/69** challenges solved:
+### **27/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
@@ -45,3 +45,6 @@
 
 - **[Recursion and Backtracking](recursion-backtracking)**
     * [Recursion: Fibonacci Numbers](recursion-backtracking/fibonacci-numbers)
+
+- **[Miscellaneous](miscellaneous)**
+    * [Flipping bits](miscellaneous/flipping-bits)
