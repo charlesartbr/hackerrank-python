@@ -2,8 +2,9 @@
 
 My practice with Python solving problems in HackerRank.
 
-[![last commit](https://img.shields.io/github/last-commit/charlesartbr/hackerrank-python.svg)](https://github.com/charlesartbr/hackerrank-python) 
-[![repo size in bytes](https://img.shields.io/github/repo-size/charlesartbr/hackerrank-python.svg)](https://github.com/charlesartbr/hackerrank-python) 
+![last commit](https://img.shields.io/github/last-commit/charlesartbr/hackerrank-python.svg)]
+![repo size in bytes](https://img.shields.io/github/repo-size/charlesartbr/hackerrank-python.svg)]
+![GitHub issues by-label](https://img.shields.io/github/issues/charlesartbr/hackerrank-python/next)
 
 ### My HackerRank profile:
 
