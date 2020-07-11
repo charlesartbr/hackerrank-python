@@ -4,7 +4,7 @@ My practice with Python solving problems in HackerRank.
 
 ![last commit](https://img.shields.io/github/last-commit/charlesartbr/hackerrank-python.svg?style=for-the-badge)
 ![repo size in bytes](https://img.shields.io/github/repo-size/charlesartbr/hackerrank-python.svg?style=for-the-badge)
-![GitHub issues by-label](https://img.shields.io/github/issues/charlesartbr/hackerrank-python/next?style=for-the-badge)
+[![GitHub issues by-label](https://img.shields.io/github/issues/charlesartbr/hackerrank-python/next?style=for-the-badge)](https://github.com/charlesartbr/hackerrank-python/issues?q=is%3Aopen+is%3Aissue+label%3Anext)
 
 ### My HackerRank profile:
 
