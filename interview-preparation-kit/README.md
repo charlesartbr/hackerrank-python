@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **27/69** challenges solved:
+### **28/69** challenges solved:
 
 - **[Warm-up Challenges](warmup)**
     * [Sock Merchant](warmup/sock-merchant)
