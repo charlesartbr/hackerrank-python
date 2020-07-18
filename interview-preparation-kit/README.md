@@ -23,6 +23,7 @@
 - **[String Manipulation](string-manipulation)**
     * [Alternating Characters](string-manipulation/alternating-characters)
     * [Strings: Making Anagrams](string-manipulation/making-anagrams)
+    * [Sherlock and the Valid String](string-manipulation/sherlock-and-valid-string)
 
 - **[Sorting](sorting)**
     * [Bubble Sort](sorting/bubble-sort)
