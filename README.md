@@ -16,7 +16,7 @@ https://www.hackerrank.com/charlesartbr
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 ![Problem Solving](badges/problem-solving.png?s=5)
 
-### **199** challenges solved:
+### **200** challenges solved:
 
 - **[Python](python)**
     - **[Introduction](python/introduction)**
@@ -250,6 +250,7 @@ https://www.hackerrank.com/charlesartbr
     - **[Sorting](interview-preparation-kit/sorting)**
         * [Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
         * [Mark and Toys](interview-preparation-kit/sorting/mark-and-toys)
+        * [Comparator](interview-preparation-kit/sorting/comparator)
     - **[Greedy Algorithms](interview-preparation-kit/greedy-algorithms)**
         * [Minimum Absolute Difference in an Array](interview-preparation-kit/greedy-algorithms/minimum-absolute-difference-in-an-array)
         * [Luck Balance](interview-preparation-kit/greedy-algorithms/luck-balance)
