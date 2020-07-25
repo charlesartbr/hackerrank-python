@@ -16,7 +16,7 @@
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 ![Problem Solving](badges/problem-solving.png?s=5)
 
-### **202** challenges solved  
+### **203** challenges solved  
 
 - **[Python](python)**
   - **[Introduction](python/introduction)**
@@ -244,6 +244,7 @@
     - [Hash Tables: Ransom Note](interview-preparation-kit/dictionaries-hashmaps/ransom-note)
     - [Two Strings](interview-preparation-kit/dictionaries-hashmaps/two-strings)
     - [Sherlock and Anagrams](interview-preparation-kit/dictionaries-hashmaps/sherlock-and-anagrams)
+    - [Count Triplets](interview-preparation-kit/dictionaries-hashmaps/count-triplets)
   - **[String Manipulation](interview-preparation-kit/string-manipulation)**
     - [Alternating Characters](interview-preparation-kit/string-manipulation/alternating-characters)
     - [Strings: Making Anagrams](interview-preparation-kit/string-manipulation/making-anagrams)
