@@ -1,32 +1,28 @@
 def countTriplets(arr, r):
 
     triplets = 0
-    first = 0
+    num_counter = {}
 
-    n = len(arr)
+    for i in range(len(arr)):
 
-    for i in range(n - 2):
+        n = arr[i]
 
-        # if first > 0 and first == arr[i]:
+        if n in num_counter:
+            num_counter[n] += 1
+        else:
+            num_counter[n] = 1
 
-        first = arr[i]
-        second = first * r
+    for n1 in num_counter:
+        
+        n2 = n1 * r
+        n3 = n2 * r
 
-        for j in range(i + 1, n - 1):
+        if n2 in num_counter and n3 in num_counter:
 
-            if arr[j] == second:
-
-                third = second * r
-
-                for k in range(j + 1, n):
-
-                    if arr[k] == third:
-                        triplets += 1
-                    elif arr[k] > third:
-                        break
-
-            elif arr[j] > second:
-                break
+            if n1 == n2 and n1 == n3:
+                triplets += (num_counter[n1] * (num_counter[n1]-1) * (num_counter[n3]-2)) // 6
+            else:
+                triplets += num_counter[n1] * num_counter[n2] * num_counter[n3]
 
     return triplets
 
