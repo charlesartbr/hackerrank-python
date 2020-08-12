@@ -5,21 +5,21 @@
 ### **115** challenges solved:
 
 - **[Introduction](introduction)**
-    * [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
-    * [Python If-Else](introduction/python-if-else)
-    * [Arithmetic Operators](introduction/arithmetic-operators)
-    * [Python: Division](introduction/python-division)
-    * [Loops](introduction/loops)
-    * [Print Function](introduction/python-print)
-    * [Write a function](introduction/write-a-function)
+  - [Say "Hello, World!" With Python](introduction/say-hello-world-with-python)
+  - [Python If-Else](introduction/python-if-else)
+  - [Arithmetic Operators](introduction/arithmetic-operators)
+  - [Python: Division](introduction/python-division)
+  - [Loops](introduction/loops)
+  - [Print Function](introduction/python-print)
+  - [Write a function](introduction/write-a-function)
 
 - **[Basic Data Types](basic-data-types)**
-    * [Lists](basic-data-types/lists)
-    * [Tuples](basic-data-types/tuples)
-    * [Finding the percentage](basic-data-types/finding-the-percentage)
-    * [Nested Lists](basic-data-types/nested-list)
-    * [Find the Runner-Up Score!](basic-data-types/find-the-runner-up-score)
-    * [List Comprehensions](basic-data-types/list-comprehensions)
+  - [Lists](basic-data-types/lists)
+  - [Tuples](basic-data-types/tuples)
+  - [Finding the percentage](basic-data-types/finding-the-percentage)
+  - [Nested Lists](basic-data-types/nested-list)
+  - [Find the Runner-Up Score!](basic-data-types/find-the-runner-up-score)
+  - [List Comprehensions](basic-data-types/list-comprehensions)
 
 - **[Strings](strings)**
   * [sWAP cASE](strings/swap-case)
