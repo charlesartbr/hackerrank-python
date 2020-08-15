@@ -3,24 +3,29 @@ from math import factorial
 def countTriplets(arr, r):
 
     triplets = 0
-    triplets_dict = {}
+    singles = {}
+    pairs = {}
 
-    for i in reversed(arr):
+    for n1 in reversed(arr):
 
-        if i in triplets_dict:
-            triplets_dict[i] += 1
+        if n1 in singles:
+            singles[n1] += 1
         else:
-            triplets_dict[i] = 1
+            singles[n1] = 1
 
-        r1 = i * r
+        n2 = n1 * r
 
-        if r1 in triplets_dict:
+        if n2 in singles:
+            if n1 in pairs:
+                pairs[n1] += singles[n2]
+            else:
+                pairs[n1] = singles[n2]
 
-            r2 = i * r * r
+        if n2 in pairs:
+            triplets += pairs[n2]
 
-            if r2 in triplets_dict:
-
-                triplets += triplets_dict[r1] * triplets_dict[r2]
+    if r == 1:
+        triplets -= len(arr) ** 2
 
     return triplets
 
