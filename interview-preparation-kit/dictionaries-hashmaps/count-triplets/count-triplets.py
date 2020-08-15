@@ -25,7 +25,7 @@ def countTriplets(arr, r):
             triplets += pairs[n2]
 
     if r == 1:
-        triplets -= len(arr) ** 2
+        triplets -= sum(singles[x] ** 2 for x in singles)
 
     return triplets
 
