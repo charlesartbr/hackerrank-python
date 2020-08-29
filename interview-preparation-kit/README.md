@@ -1,6 +1,6 @@
 # Interview Preparation Kit
 
-### **31/69** challenges solved
+## **32/69** challenges solved
 
 - **[Warm-up Challenges](warmup)**
   - [Sock Merchant](warmup/sock-merchant)
@@ -25,6 +25,7 @@
   - [Alternating Characters](string-manipulation/alternating-characters)
   - [Strings: Making Anagrams](string-manipulation/making-anagrams)
   - [Sherlock and the Valid String](string-manipulation/sherlock-and-valid-string)
+  - [Special String Again](string-manipulation/special-string-again)
 
 - **[Sorting](sorting)**
   - [Bubble Sort](sorting/bubble-sort)
