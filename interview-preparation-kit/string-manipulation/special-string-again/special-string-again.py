@@ -1,23 +1,34 @@
-def is_special(s):
-
-    lens = len(s)
-    lenset = len(set(s))
-    
-    if lenset  == 1:
-        return True
-
-    if lens % 2 == 1 and lenset == 2 and s[lens // 2] != s[0]:
-        return True
-
-    return False
-
 def substrCount(n, s):
 
     specials = n
 
     for i in range(n-1):
-        for j in range(i+2, n+1):
-            specials += is_special(s[i:j])
+
+        sub = s[i:]
+        lsub = len(sub)
+
+        for j in range(2, lsub+1):
+               
+            substr = sub[:j]
+
+            lsub = len(substr)
+            lset = len(set(substr))
+
+            if lset > 2:
+                break
+            elif lset == 1:              
+                specials += 1
+            elif lset == 2 and lsub % 2 == 1:
+
+                mid = lsub // 2
+
+                if len(set(substr[:mid])) > 1:
+                    break
+                elif len(set(substr[mid+1:])) > 1:                
+                    break
+                elif substr[0] != substr[mid]:
+                    specials += 1
+                    break
 
     return specials
 
@@ -26,4 +37,4 @@ s = input()
 
 result = substrCount(n, s)
 
-print(str(result) + '\n')
+print(str(result))
