@@ -16,7 +16,7 @@
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 ![Problem Solving](badges/problem-solving.png?s=5)
 
-### **204** challenges solved  
+### **205** challenges solved  
 
 - **[Python](python)**
   - **[Introduction](python/introduction)**
@@ -167,6 +167,9 @@
   - **[Debugging](python/debugging)**
     - [Words Score](python/debugging/words-score)
     - [Default Arguments](python/debugging/default-arguments)
+
+  - **[Bit Manipulation](python/bit-manipulation)**
+    - [Sum vs XOR](python/bit-manipulation/sum-vs-xor)
 
 - **[10 Days of Statistics](10-days-of-statistics)**
   - [Day 0: Mean, Median, and Mode](10-days-of-statistics/day-0-mean-median-and-mode)

@@ -152,3 +152,6 @@
 - **[Debugging](debugging)**
   * [Words Score](debugging/words-score)
   * [Default Arguments](debugging/default-arguments)
+
+- **[Bit Manipulation](bit-manipulation)**
+  * [Sum vs XOR](bit-manipulation/sum-vs-xor)
