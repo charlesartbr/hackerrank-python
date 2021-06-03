@@ -16,7 +16,11 @@
 ![30 Days of Code](badges/30-days-of-code.png?s=5)
 ![Problem Solving](badges/problem-solving.png?s=5)
 
-### **205** challenges solved  
+### **206** challenges solved  
+
+- **[Algorithms](algorithms)**
+  - **[Warmup](algorithms/warmup)**
+    - [Compare the Triplets](algorithms/warmup/compare-the-triplets)
 
 - **[Python](python)**
   - **[Introduction](python/introduction)**
