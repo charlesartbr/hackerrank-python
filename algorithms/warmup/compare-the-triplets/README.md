@@ -6,3 +6,4 @@
 
 - [Python](compare-the-triplets.py)
 - [Python - using zip function](compare-the-triplets-zip.py)
+- [Python - using map function](compare-the-triplets-map.py)
