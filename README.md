@@ -11,10 +11,10 @@
 
 <https://www.hackerrank.com/charlesartbr>
 
-![Python](badges/python.png?s=5)
-![10 Days of Statistics](badges/10-days-of-statistics.png?s=5)
-![30 Days of Code](badges/30-days-of-code.png?s=5)
-![Problem Solving](badges/problem-solving.png?s=5)
+<img src="badges/python.svg" width="100" height="109" alt="Python" />  
+<img src="badges/10-days-of-statistics.svg" width="100" height="109" alt="10 Days of Statistics" />  
+<img src="badges/30-days-of-code.svg" width="100" height="109" alt="30 Days of Code" />  
+<img src="badges/problem-solving.svg" width="100" height="109" alt="Problem Solving" />  
 
 ### **206** challenges solved  
 
