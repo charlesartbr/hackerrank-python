@@ -1,12 +1,6 @@
-import numpy as np
-
-n, m = map(int, input().split())
-
-arr = np.array([list(map(int, input().split())) for _ in range(n)])
-
-# to fix the ouput format
-np.set_printoptions(legacy='1.13')
-
-print(np.mean(arr, axis = 1))
-print(np.var(arr, axis = 0))
-print(np.std(arr))
+import numpy
+N,M = map(int,input().split())
+A = numpy.array([input().split() for _ in range(N)], int)
+print(A.mean(axis=1))
+print(A.var(axis=0))
+print(numpy.round(A.std(), decimals=11))
