@@ -5,9 +5,7 @@ def print_rangoli(size):
     #top
     for i in range(size, 0, -1):
 
-        line = list(reversed([chr(ord('a') + c) for c in range(i, size)]))
-
-        line.append(chr(ord('a') + i - 1))
+        line = list(reversed([chr(ord('a') + c) for c in range(i-1, size)]))
 
         line += [chr(ord('a') + c) for c in range(i, size)]
 
@@ -16,9 +14,7 @@ def print_rangoli(size):
     #bottom    
     for i in range(1, size):
 
-        line = list(reversed([chr(ord('a') + c) for c in range(i + 1, size)]))
-            
-        line.append(chr(ord('a') + i))
+        line = list(reversed([chr(ord('a') + c) for c in range(i , size)]))
 
         line += [chr(ord('a') + c) for c in range(i + 1, size)]
 
